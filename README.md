@@ -20,7 +20,7 @@ Ben Winjum (bwinjum@ucla.edu)
 ## Office Hours: 
 
 * Yoh: Thursdays 1PM - 3PM and by appointment
-    * [Schedule an appointment](https://calendly.com/yohda/officehours)
+	* [Schedule an appointment](https://calendly.com/yohda/officehours)
 * Chris: TBD
 * Ryan: TBD
 
@@ -108,9 +108,9 @@ If the above steps haven't solved your problem, send an email (or attend office 
 *   [Geographic Data Science with PySAL and the PyData Stack](https://geographicdata.science/book/intro.html)
 *   [Spatial Analysis Methods and Practice by George Grekousis](https://www.cambridge.org/core/books/spatial-analysis-methods-and-practice/4C135005A621335D06CC63EFF17E3913)   
 *   Think Python 2nd Edition by Allen B. Downey
-    *   [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
+	*   [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
 *   Jupyter Notebooks
-    *   [https://jupyter.readthedocs.io/en/latest/index.html](https://jupyter.readthedocs.io/en/latest/index.html) 
+	*   [https://jupyter.readthedocs.io/en/latest/index.html](https://jupyter.readthedocs.io/en/latest/index.html) 
 
 
 ## Weekly Schedule
@@ -120,9 +120,9 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 *   Fill out the [pre-class survey](https://forms.gle/3XygyScmjHPttA7L7)
 *   If you do not have a GitHub account, create one for the class
-    *   [https://github.com/](https://github.com/)
+	*   [https://github.com/](https://github.com/)
 *   Make sure you can log into the class JupyterHub
-    *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
+	*   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
 ### [Week 1 (1/4): Introduction to spatial data science](Weeks/Week01)
 
@@ -149,18 +149,324 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 ### [Week 10 (3/8): Story maps and interactive web mapping](Weeks/Week10)
 
+
+
+
+<table>
+  <tr>
+	<th colspan=2>
+	  	<a href="Weeks/Week01">Week 1 (9/27): Introduction to spatial data science</a>
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lecture
+	</td>
+	<td>
+	  <li>Introductions</li>
+	  <li>Syllabus review</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Setting up for the course</li>
+	  <li>Hello World Map</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 2: Spatial Narratives-Story Maps
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lecture
+	</td>
+	<td>
+	  <li>Group creations</li>
+	  <li>Thinking cap discussions</li>
+	  <li>Story maps</li>
+	  <li>Git</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>HTML, CSS, a little bit of Javascript</li>
+	  <li>Using Git in VS Code</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 3: It's all about data
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lecture
+	</td>
+	<td>
+	  <li>Thinking cap discussions</li>
+	  <li>Data</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Javascript and leaflet</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	  <li>Group Assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 4: Building a narrative-Storyboarding
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lecture
+	</td>
+	<td>
+	  <li>Thinking cap discussions</li>
+	  <li>Storyboarding</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Javascript interactivity with jQuery</li>
+	  <li>Building a story map framework
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	  <li>Group Assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 5: User Interface Design
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lecture
+	</td>
+	<td>
+	  <li>User Interface Design</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Bootstrap</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	  <li>Group Assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 6: Midterm presentations
+	</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 7: Census Data
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Choropleth maps on the web</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	  <li>Group Assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 8: Data API's
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Mapping "live" data</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	  <li>Group Assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 9: Time
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Working with temporal data</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	  <li>Group Assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 10: Data Analytics
+	</th>
+  </tr>
+  <tr>
+	<td>
+	  Lab
+	</td>
+	<td>
+	  <li>Charts, displaying metrics</li>
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  Assignments
+	</td>
+	<td>
+	  <li>Thinking cap</li>
+	  <li>Coding assignment</li>
+	  <li>Group Assignment</li>
+	</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+	<th colspan=2>
+	  Week 11: Final presentations
+	</th>
+  </tr>
+</table>
+
+
+
+
+
+
+
 ## Resources:
 
 *   [gboeing/ppd534: USC PPD534: Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)
-    *   University of Southern California
-    *   Professor: Geoff Boeing
+	*   University of Southern California
+	*   Professor: Geoff Boeing
 *   [CP255: Urban Informatics and Visualization](https://github.com/waddell/CP255)
-    *   University of California, Berkeley Department of City and Regional Planning
-    *   Professor: Paul Waddell
+	*   University of California, Berkeley Department of City and Regional Planning
+	*   Professor: Paul Waddell
 *   [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
-    *   University of Helsinki, Finland
+	*   University of Helsinki, Finland
 *   [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/) (R focused)
-    *   University of Chicago
+	*   University of Chicago
 
 ## Statement of Affirmation
 
