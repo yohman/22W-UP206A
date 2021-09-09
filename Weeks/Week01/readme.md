@@ -1,5 +1,5 @@
 
-# Week 1 (10/5): Introduction to spatial data science
+# Week 1: Introduction to spatial data science
 
 
 ## Lecture
@@ -17,7 +17,7 @@
 
 ## Individual Assignments
 
-There are three deliverables this week. Each are due on Sunday (January 10) by midnight.
+There are three deliverables this week. Each are due on Sunday by midnight.
 
 ### #1. Create a GitHub account, and start a new repo
 
