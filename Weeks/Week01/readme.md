@@ -25,9 +25,22 @@ There are three deliverables this week. Each are due on Sunday by midnight.
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
 
 ### #2. Submit two or more datasets
-Search for two or more potential data sources that you may use for your research. Make sure that they are "downloadable." Submit your dataset using the following google form:
+Search for two or more potential data sources that you may use for your research. If you are you using a web resource, make sure that they are "downloadable." Upload your datasets to your repo. First, create a folder titled "data," and upload your datasets in there.
 
-*  https://forms.gle/ikT1YDa5gQrV2ntb6
+Acceptable formats:
+- csv
+- excel
+- google sheet (provide link)
+- geojson
+- shapefile
+- API source
+
+Submit your dataset assigment here, and make sure to provide the following information for each of your two datasets:
+
+1. Name of the data
+1. Description of the data and how you may use it for your project
+1. A URL link to the source (if you got it from a website), or a description of where you got your data from
+1. A URL link to the data on your repo
 
 ### #3. Reading assignment
 This week's reading assignment is for you to find an article, blog, journal, chapter, or book that talks about data/information/knowledge/coding that includes some spatial component. Make sure it is something that you would like to share with the class. Then, write a paragraph (yes, a paragraph, not two) that summarizes the article. Write a second paragraph where you reflect critically and creatively about the material in your own words. Why did this article speak to you in regards to your approach to data and research? How does it inform you own data science goals?
