@@ -35,7 +35,7 @@ Acceptable formats:
 - shapefile
 - API source
 
-Submit your dataset assigment here, and make sure to provide the following information for each of your two datasets:
+Submit your dataset assigment [here](https://github.com/yohman/21F-UP206A/discussions/5), and make sure to provide the following information for each of your two datasets:
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
