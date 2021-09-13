@@ -1,7 +1,8 @@
-# Week 2: Data in Urban Studies: The challenge in data acquisition
+# Week 2: Data in Urban Studies
 
+October 4, 2021
 ## Agenda
-*   Attention! **Next class is on Wednesday, January 20th, at 6pm**
+
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - we're here for you!
@@ -11,15 +12,17 @@
     * Breakout rooms based on interests
     * Google doc to enter your group pairings
 *   A discussion on a selection from last week's readings
-*   [Our class data library](https://docs.google.com/spreadsheets/d/1m67s0-SptURpRLr6ISq6Fy7e_66LcSPLjfPjqhZxC8M/edit?usp=sharing)
 
 ## Hands on
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
 *   [Intro to the geopandas library using Metro data](W202-PythonandMetro.ipynb)
 
 ## Assignments (due 23:59 Sunday, the day before class)
+
 ### Group Assignment #1: Project Proposal
-The course will largely be guided by your final project, which will be conducted in pairs. Meet with your partner, discuss and identify a research question, and begin the collection of data, its analysis, and determine how it may answer your question. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
+The course will largely be guided by your final project, which will be conducted in pairs. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve as a representation of your data science and mapping skills, which may become a valuable asset for your career moving forward.
+
+Meet with your partner, discuss and identify a research question (or two or three...), begin to identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can begin to answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
 
 Next, identify and download at least two datasets that you believe begins to guide your research. Make sure that at least one of them has a spatial component. For example, if one of your datasets comes from the census, identify which survey you will use (e.g. Decennial or American Community Survey), and which variables you will select. Note that we will be covering census data in detail in Week 3. Your second dataset should come from a separate source. For example, you may want to do a crime analysis and obtain data from the LA Data Portal.
 
@@ -42,8 +45,8 @@ Create a markdown page (optionally, you may choose to upload a PDF), which will 
 
 ### Individual assignment: Data Exploration
 *   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. If you do not have a dataset, you can download one from the [Los Angeles Times' "Mapping L.A. Boundaries"](http://boundaries.latimes.com/sets/) page.
-*   Launch JupyterHub and pload the dataset to your JupyterHub space
-*   Create a new python notebook (do not work on a copy of the lab notebook)
+*   Launch JupyterHub and load the dataset to your JupyterHub space
+*   Create a new python notebook (**do not** work on a copy of the lab notebook)
 *   Add an introductory markdown cell with a title (header) and paragraph that describes what you are doing
 *   Import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
     * `.shape`

@@ -1,6 +1,6 @@
 
 # Week 1: Introduction to spatial data science
-
+September 27, 2021
 
 ## Lecture
 ###   Overview of the course
