@@ -2,7 +2,8 @@
 
 Fall 2021
 
-Mondays 2pm - 5pm
+Mondays 2pm - 4:50pm
+Public Affairs Building Room 2355
 
 ## Instructor: 
 
