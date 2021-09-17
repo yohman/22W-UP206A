@@ -11,7 +11,7 @@
 ## Special Guest for Week 8: Adam Millard-Ball
 ![Adam](https://cdn.theconversation.com/avatars/1123988/width238/file-20200709-46-1wmq6nl.jpg) 
 
-[about](https://luskin.ucla.edu/person/adam-millard-ball)
+[About Adam](https://luskin.ucla.edu/person/adam-millard-ball)
 
 ## Assignments
 
