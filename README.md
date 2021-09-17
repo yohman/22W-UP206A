@@ -132,7 +132,7 @@ B and below | Submission is incomplete or produces errors
 ### [Week 9 (3/1): Point pattern analysis and sentiment analysis](Weeks/Week09)
 - [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
 
-### [Week 10 (3/8): Story maps and interactive web mapping](Weeks/Week10)
+### [Week 10 (3/8): Remote Sensing and Sentiment Analysis](Weeks/Week10)
 
 ## How to ask a technical question
 
