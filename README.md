@@ -129,7 +129,7 @@ B and below | Submission is incomplete or produces errors
 
 ### [Week 8 (2/22): Spatial statistics](Weeks/Week08)
 
-### [Week 9 (3/1): Point pattern analysis and sentiment analysis](Weeks/Week09)
+### [Week 9 (3/1): Point pattern analysis](Weeks/Week09)
 - [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
 
 ### [Week 10 (3/8): Remote Sensing and Sentiment Analysis](Weeks/Week10)
