@@ -90,26 +90,16 @@ All assignments are graded on the following criteria:
 - **Does it work?**: Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel, and running all cells.
 - **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
 
-## How to ask a technical question
-
-Given the nature of the course, you will have many, many questions along the way. However, we ask that you adhere to the following guidelines in order to make consultations as productive as possible. Students who do not follow these guidelines will be asked to reschedule.
-
-Before asking a question:
-
-1. Close all open programs, restart your computer, then try your task again
-2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
-3. Go back through the relevant lecture materials to look for any insights
-4. Go back through the assigned reading materials to look for any insights
-
-If the above steps haven't solved your problem, send an email (or attend office hours) and include the following information:
-
-1. A detailed description of what you're trying to do, why, and how
-2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
-3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
+Grade | Description
+---|---
+A/A+ | Exceptional/creative/innovative work, demonstrating grasp of material, application of concepts to your own inquiry, going above and beyond course material
+A- | Good grasp of material and solid application to your own research inquiry
+B+ | Average understanding of material, largely duplicating course material to fit with your own research inquiry
+B- and below | Submission is incomplete or produces errors
 
 ## Weekly Schedule
 
-** Note:** Weekly content is subject to change, and will be modified as needed based on class discussions, needs, and progress.
+**Note:** Weekly content is subject to change, and will be modified as needed based on class discussions, needs, and progress.
 
 ### Preparation
 
@@ -144,6 +134,22 @@ If the above steps haven't solved your problem, send an email (or attend office 
 
 ### [Week 10 (3/8): Story maps and interactive web mapping](Weeks/Week10)
 
+## How to ask a technical question
+
+Given the nature of the course, you will have many, many questions along the way. However, we ask that you adhere to the following guidelines in order to make consultations as productive as possible. Students who do not follow these guidelines will be asked to reschedule.
+
+Before asking a question:
+
+1. Close all open programs, restart your computer, then try your task again
+2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
+3. Go back through the relevant lecture materials to look for any insights
+4. Go back through the assigned reading materials to look for any insights
+
+If the above steps haven't solved your problem, send an email (or attend office hours) and include the following information:
+
+1. A detailed description of what you're trying to do, why, and how
+2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
+3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
 ## Readings and Resources
 
@@ -180,11 +186,9 @@ Students with disabilities requiring academic accommodations should submit their
 ## Covid-19 and return to campus information 
 
 UCLA's return to campus guidelines
-- https://covid-19.ucla.edu/ucla-return-to-campus/
+- [https://covid-19.ucla.edu/ucla-return-to-campus/](https://covid-19.ucla.edu/ucla-return-to-campus/)
 
 UCLA's Basic needs resource guide
-- https://docs.google.com/document/d/1AUbLyaeYTLGPY1tnDJTG3ROzXKVY0QvF5oOy9_ZLmKo/edit
+- [https://docs.google.com/document/d/1AUbLyaeYTLGPY1tnDJTG3ROzXKVY0QvF5oOy9_ZLmKo/edit](https://docs.google.com/document/d/1AUbLyaeYTLGPY1tnDJTG3ROzXKVY0QvF5oOy9_ZLmKo/edit)
 
 The Luskin School has a Covid-19 FAQ resource page compiling information relevant to Covid-19 and its impacts.  The page is updated periodically.
-
-
