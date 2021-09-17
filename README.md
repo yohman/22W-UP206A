@@ -95,7 +95,7 @@ Grade | Description
 A/A+ | Exceptional/creative/innovative work, demonstrating grasp of material, application of concepts to your own inquiry, going above and beyond course material
 A- | Good grasp of material and solid application to your own research inquiry
 B+ | Average understanding of material, largely duplicating course material to fit with your own research inquiry
-B- and below | Submission is incomplete or produces errors
+B and below | Submission is incomplete or produces errors
 
 ## Weekly Schedule
 
