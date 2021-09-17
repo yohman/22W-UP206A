@@ -33,6 +33,8 @@ Our understanding of social phenomena through spatial constructs in urban data a
 
 The goal for this course is to expose you to the foundations of spatial data science. Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed to human expressions and narratives that are utilized in planning? We begin with an introduction to various data science tools, and review the basics of programming with Python. Once a foundation of Python programming and data wrangling is achieved, spatial analysis through Python Libraries, and subsequently, through advanced geoprocessing will be introduced. All lessons will be based on “real” data with analytical methods addressing relevant and contemporary urban problems. At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
 
+In addition to the programming lab sessions, you will be given weekly or bi-weekly "thinking cap" assignments, where you will be asked to think critically about contemporary urban issues. Be prepared to address various topics from the perspective of your own lived experiences, how it informs the topic, and what kind of research can advance knowledge in a positive way.
+
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
 
 ## Learning Objectives for UP206A
@@ -63,7 +65,7 @@ Weekly course materials, including presentations, interactive notebooks (.ipynb)
 
 ## Assignments and Evaluation
 
-All assignments, unless otherwise specified, must be posted on your individual GitHub accounts or on CCLE by midnight of the Sunday prior to our class on Monday. Assignments are posted in each week's page, so make sure to read them carefully. 
+All assignments, unless otherwise specified, must be posted on your individual GitHub accounts or on the class GitHub discussion section by midnight of the Sunday prior to our class on Monday. Assignments are posted in each week's page, so make sure to read the instructions carefully. 
 
 - Participation, individual progress, coding and reading assignments 10%
 - Group assignments 40%
@@ -82,7 +84,8 @@ All assignments, unless otherwise specified, must be posted on your individual G
 
 All assignments are graded on the following criteria:
 
-- **Timeliness**: Unless otherwise specified, all assignments are due at midnight of the day before the next class. For most assignments, you will be asked to submit them as files on your github account. The timestamp on the files on your github account will be used to determine whether they were submitted on time. Any late assignments will be marked down.
+- **Timeliness**: Unless otherwise specified, all assignments are due at midnight of the day before the next class. For most assignments, you will be asked to submit them as posts in the discussion section of the class repo. The timestamp of your post will be used to determine whether they were submitted on time. 
+- **Late assignments**: Late assignments will be marked down one grade for each day it is late. For example, if your assigment warrants an "A" but is a day late, you will receive an "A-." As long as you submit your assignment before 10th week, you will get at least a "C."
 - **Cleanliness**: Nobody wants to go through unreadable code! Make sure to document your work accordingly, providing markdown cells and comments throughout.
 - **Does it work?**: Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel, and running all cells.
 - **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
@@ -104,18 +107,9 @@ If the above steps haven't solved your problem, send an email (or attend office 
 2. A complete [minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of your code so far (never send screenshots of code)
 3. What you've already tried to do to solve your problem and what you have learned from it (specifically, explain the results of steps 1-4 above, including relevant links from stackoverflow etc)
 
-
-## Readings and Resources
-*   [Geographic Data Science with PySAL and the PyData Stack](https://geographicdata.science/book/intro.html)
-*   [Spatial Analysis Methods and Practice by George Grekousis](https://www.cambridge.org/core/books/spatial-analysis-methods-and-practice/4C135005A621335D06CC63EFF17E3913)   
-*   Think Python 2nd Edition by Allen B. Downey
-	*   [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
-*   Jupyter Notebooks
-	*   [https://jupyter.readthedocs.io/en/latest/index.html](https://jupyter.readthedocs.io/en/latest/index.html) 
-
-
 ## Weekly Schedule
-Weekly content is subject to change, and will be modified as needed based on class discussions, needs, and progress.
+
+** Note:** Weekly content is subject to change, and will be modified as needed based on class discussions, needs, and progress.
 
 ### Preparation
 
@@ -151,11 +145,16 @@ Weekly content is subject to change, and will be modified as needed based on cla
 ### [Week 10 (3/8): Story maps and interactive web mapping](Weeks/Week10)
 
 
+## Readings and Resources
 
+Readings will be posted in the assignment sections for each week. The following are a list of resources to help you with the more technical aspects of the course:
 
-
-## Resources:
-
+*   [Geographic Data Science with PySAL and the PyData Stack](https://geographicdata.science/book/intro.html)
+*   [Spatial Analysis Methods and Practice by George Grekousis](https://www.cambridge.org/core/books/spatial-analysis-methods-and-practice/4C135005A621335D06CC63EFF17E3913)   
+*   Think Python 2nd Edition by Allen B. Downey
+	*   [https://greenteapress.com/wp/think-python-2e/](https://greenteapress.com/wp/think-python-2e/)
+*   Jupyter Notebooks
+	*   [https://jupyter.readthedocs.io/en/latest/index.html](https://jupyter.readthedocs.io/en/latest/index.html) 
 *   [gboeing/ppd534: USC PPD534: Data, Evidence, and Communication for the Public Good](https://github.com/gboeing/ppd534)
 	*   University of Southern California
 	*   Professor: Geoff Boeing
@@ -178,7 +177,14 @@ If you are already registered with the Center for Accessible Education (CAE), pl
 Students with disabilities requiring academic accommodations should submit their request for accommodations as soon as possible, as it may take up to two weeks to review the request. For more information, please visit the CAE website (www.cae.ucla.edu), visit the CAE at A255 Murphy Hall, or contact by phone at (310) 825-1501.
 
 
-## Covid-19 information 
+## Covid-19 and return to campus information 
+
+UCLA's return to campus guidelines
+- https://covid-19.ucla.edu/ucla-return-to-campus/
+
+UCLA's Basic needs resource guide
+- https://docs.google.com/document/d/1AUbLyaeYTLGPY1tnDJTG3ROzXKVY0QvF5oOy9_ZLmKo/edit
+
 The Luskin School has a Covid-19 FAQ resource page compiling information relevant to Covid-19 and its impacts.  The page is updated periodically.
 
 
