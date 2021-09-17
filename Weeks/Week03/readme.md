@@ -4,19 +4,13 @@
 
 ## Today's Agenda
 
-*   [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-UP206A&urlpath=tree%2F21W-UP206A%2F&branch=master)
+*   Git Puller TBD
 *   Welcome to week 3!
     * Concerns?
-    * Updated office hours:
-      * Yoh: Thursdays 1PM - 3PM and by appointment
-          * [Schedule an appointment](https://calendly.com/yohda/up206a)
-      * Chris: Thursdays 10AM-12PM and by appointment
-          * [Zoom room for Chris's office hours](https://ucla.zoom.us/j/94607793152?pwd=NEJRQzFxQU1HS0FvTWJsc3cxRC9BUT09#success)
-      * Eleanor: Wednesday 4-6pm and by appointment
-          * [Zoom room for Eleanor's office hours](https://ucla.zoom.us/j/97743689109)
+    * Updated office hours TBD
 *   Lab: Census data exploration in python using pandas
 *   Code review (Chris)
-*   [Reading discussion](https://docs.google.com/document/d/1ebuq3X8yqVT11p6Z0fK9YpLBL6-i6PgnTfEU1wCodPE/edit?usp=sharing) (Eleanor)
+*   Thinking cap recap
 
 ## Assignments
 
