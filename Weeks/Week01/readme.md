@@ -5,8 +5,6 @@ September 27, 2021
 ## Lecture
 ###   Overview of the course
 
-- [Presentation slides](https://docs.google.com/presentation/d/1EQMRE6VA0XRvm2Fc3wZlgBToBLxD77Tnh5xCdbhcTWc/edit?usp=sharing)
-
 ### Groups
 *   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
 
