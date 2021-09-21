@@ -8,6 +8,7 @@ September 27, 2021
 * In person! WELCOME BACK!
 * Logistics
 * Syllabus
+* Your TA's
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
 * Old school: A short lecture without screens
