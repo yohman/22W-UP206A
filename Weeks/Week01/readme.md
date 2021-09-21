@@ -5,8 +5,12 @@ September 27, 2021
 ## Lecture
 ###   Overview of the course
 
-### Groups
-*   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
+* In person! WELCOME BACK!
+* Logistics
+* Syllabus
+* Waitlist student considerations
+  * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
+* Old school: A short lecture without screens
 
 ## Hands on
 *   Introducing GitHub
