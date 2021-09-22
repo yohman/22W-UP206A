@@ -24,7 +24,7 @@ Ben Winjum (bwinjum@ucla.edu)
 	* [Schedule an appointment](https://calendly.com/yohda/officehours)
 * Chris: TBD
 * Ryan: Fridays 1-3pm starting week 2 and by appointment
-        * [Zoom link](https://ucla.zoom.us/j/98109554371)
+	* [Zoom link](https://ucla.zoom.us/j/98109554371)
 
 ## Course Description
 
