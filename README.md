@@ -22,7 +22,8 @@ Ben Winjum (bwinjum@ucla.edu)
 
 * Yoh: Thursdays 1PM - 3PM and by appointment
 	* [Schedule an appointment](https://calendly.com/yohda/officehours)
-* Chris: TBD
+* Chris: Thursdays 10AM - 12PM and by appointment
+	* [Digital office hours link](https://ucla.zoom.us/j/94865539208?pwd=bGF5U0RtekFtR2lER2Q3bnVtN2xLUT09)
 * Ryan: Fridays 1-3pm starting week 2 and by appointment
 	* [Zoom link](https://ucla.zoom.us/j/98109554371)
 
