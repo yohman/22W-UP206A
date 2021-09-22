@@ -23,7 +23,7 @@ Ben Winjum (bwinjum@ucla.edu)
 * Yoh: Thursdays 1PM - 3PM and by appointment
 	* [Schedule an appointment](https://calendly.com/yohda/officehours)
 * Chris: TBD
-* Ryan: TBD
+* Ryan: Fridays 1-3pm starting week 2 and by appointment
 
 ## Course Description
 
