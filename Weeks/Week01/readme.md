@@ -5,7 +5,8 @@ September 27, 2021
 ## Lecture
 ###   Overview of the course
 
-* This course will be recorded
+*Note that this course will be recorded
+
 * In person! WELCOME BACK!
 * Logistics
 * Syllabus
