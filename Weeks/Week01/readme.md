@@ -13,7 +13,8 @@ September 27, 2021
 * Your TA's
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
-* Old school: A lecture without screens... What is GIS and Spatial Data Science?
+* Old school: A lecture without screens... GIS | Spatial 
+
 
 ## Hands on
 *   Introducing GitHub
