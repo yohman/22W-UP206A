@@ -5,13 +5,14 @@ September 27, 2021
 ## Lecture
 ###   Overview of the course
 
+* This course will be recorded
 * In person! WELCOME BACK!
 * Logistics
 * Syllabus
 * Your TA's
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
-* Old school: A short lecture without screens
+* Old school: A lecture without screens... What is GIS and Spatial Data Science?
 
 ## Hands on
 *   Introducing GitHub
