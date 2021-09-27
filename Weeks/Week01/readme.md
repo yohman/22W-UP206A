@@ -11,6 +11,7 @@ September 27, 2021
 * Logistics
 * Syllabus
 * Your TA's
+* [You](https://docs.google.com/forms/d/1OLDvVk_u2_CYP844fu_TVrPnxlOcBXpJpW0aZRlEFiQ/edit#responses)
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
 * Old school: A lecture without screens... GIS | Spatial 
