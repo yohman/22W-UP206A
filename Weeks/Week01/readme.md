@@ -8,15 +8,24 @@ September 27, 2021
 *Note that this course will be recorded
 
 * In person! WELCOME BACK!
+* Mark your attendance
 * Logistics
 * Syllabus
 * Your TA's
+* [You](https://docs.google.com/forms/d/1OLDvVk_u2_CYP844fu_TVrPnxlOcBXpJpW0aZRlEFiQ/edit#responses)
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
 * Old school: A lecture without screens... GIS | Spatial 
 
 
 ## Hands on
+
+First, grab the course material, and "pull" it into your JupyterHub space:
+
+* [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) (This link will automatically launch JupyterHub and clone the course material into your directory)
+
+Today's lab will cover the following topics:
+
 *   Introducing GitHub
 *   Introducing JupyterHub
 *   Intro to Python

@@ -16,6 +16,8 @@ Yoh Kawano (yohman@gmail.com)
 
 ## Special Technology Assistant:
 
+For issues regarding JupyterHub.
+
 Ben Winjum (bwinjum@ucla.edu)
 
 ## Office Hours: 
