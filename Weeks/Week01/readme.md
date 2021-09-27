@@ -5,8 +5,16 @@ September 27, 2021
 ## Lecture
 ###   Overview of the course
 
-### Groups
-*   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
+*Note that this course will be recorded
+
+* In person! WELCOME BACK!
+* Logistics
+* Syllabus
+* Your TA's
+* Waitlist student considerations
+  * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
+* Old school: A lecture without screens... GIS | Spatial 
+
 
 ## Hands on
 *   Introducing GitHub
