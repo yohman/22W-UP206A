@@ -8,7 +8,7 @@ September 27, 2021
 *Note that this course will be recorded
 
 * In person! WELCOME BACK!
-* Mark your [attendance](https://docs.google.com/spreadsheets/d/1mFpqjd_IgMzVcuZlgzWJvbqB5O1SebsDvBL6r3l3lOc/edit#gid=0)
+* Mark your attendance
 * Logistics
 * Syllabus
 * Your TA's
