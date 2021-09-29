@@ -9,8 +9,6 @@ October 4, 2021
 *   Lab session
 *   Break
 *   Group creation
-    * Breakout rooms based on interests
-    * Google doc to enter your group pairings
 *   A discussion on a selection from last week's readings
 
 ## Hands on
