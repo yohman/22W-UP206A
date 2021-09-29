@@ -12,6 +12,11 @@ October 4, 2021
 *   A discussion on a selection from last week's readings
 
 ## Hands on
+First, grab the course material, and "pull" it into your JupyterHub space:
+
+* [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) (This link will automatically launch JupyterHub and clone the course material into your directory)
+
+Topics: 
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
 *   [Intro to the geopandas library using Metro data](W202-PythonandMetro.ipynb)
 
