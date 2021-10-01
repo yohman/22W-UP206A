@@ -50,55 +50,84 @@ Your project proposal should include the following:
 
 This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
 
-1. Go to your class repo page. The URL should look something like this: 
+
+Go to your class repo page. The URL should look something like this: 
 `https://github.com/your_name/up206a`
-1. Copy the clone URL:
-<img src="images/clone.png">
-1. Launch JupyterHub
-1. Make sure you are at the root folder: 
-<img src="images/root.png">
-1. In the file menu bar, go to `Git`, `Clone a Repository`:
-<img src="images/gitclone.png">
-1. Enter (paste) the URL to your repo
-1. You should now see your repo in the root directory:
-<img src="images/up206a.png">
+
+Copy the clone URL:
+
+<kbd><img src="images/clone.png"></kbd>
+
+Launch JupyterHub
+
+Make sure you are at the root folder: 
+
+<kbd><img src="images/root.png"></kbd>
+
+In the file menu bar, go to `Git`, `Clone a Repository`:
+
+<kbd><img src="images/gitclone.png"></kbd>
+
+Enter (paste) the URL to your repo
+
+You should now see your repo in the root directory:
+
+<kbd><img src="images/up206a.png"></kbd>
 
 From here onwards, this will be your workspace for individual assignments, code experiments, and general data science work related to the class.
 
 ### Submission guidelines:
 
-*   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. 
-*   Launch JupyterHub, go to your `up206a` repo folder, and create a `week01` folder
-*   Load the dataset to the `up206a/week01` folder
-*   Create a new python notebook (**do not** work on a copy of the lab notebook):
+
+Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. 
+
+Launch JupyterHub, go to your `up206a` repo folder, and create a `week01` folder.
+
+Load the dataset to the `up206a/week01` folder.
+
+Create a new python notebook (**do not** work on a copy of the lab notebook):
+
 <img src="images/notebook.png"> 
-*   Right click on the `Untitled.ipynb` tab and rename the notebook to `week 1 assignment.ipynb`
+
+Right click on the `Untitled.ipynb` tab and rename the notebook to `week 1 assignment.ipynb`
+
 <img src="images/rename.png">
-*   Add an introductory markdown cell with a title (header) and paragraph that describes what you are doing
-*   Import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
-    * `.shape`
-    * `.info`
-    * `.head()`
-    * `.plot()`
-    * `.value_counts()`
-    * run a query on the data that filters it in some way
-*   For each code cell, add a markdown cell that explains what you are doing
-*   Add markdown cells that describe the output of each operation
-*   Save your notebook
 
-Commit your changes to your GitHub class repo
-* Make sure you are inside your `up206a` folder, and then click on the Git tab on the left side of your JupyterLab panel
-* Under the `Untracked` section, you should see all the files that you have modified. Click on the `+` button next to each file, and make sure that it moves to the `Staged` section
+Add an introductory markdown cell with a title (header) and paragraph that describes what you are doing.
 
-<img src="images/track.png">
+Import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
 
-* Add a comment that summarizes your work (ex: Week 1 assignment) and click on the `COMMIT` button
+* `.shape`
+* `.info`
+* `.head()`
+* `.plot()`
+* `.value_counts()`
+* run a query on the data that filters it in some way
 
-<img src="images/commit.png">
+For each code cell, add a markdown cell that explains what you are doing.
 
-* You should now see an orange light next to the icon that looks like a cloud with an up arrow. Click on it to push your changes to your repo
+Add markdown cells that describe the output of each operation.
 
-<img src="images/push.png">
+Save your notebook.
+
+### Commit your changes to your GitHub class repo.
+
+
+Make sure you are inside your `up206a` folder, and then click on the Git tab on the left side of your JupyterLab panel.
+
+Under the `Untracked` section, you should see all the files that you have modified. Click on the `+` button next to each file, and make sure that it moves to the `Staged` section.
+
+<kbd><img src="images/track.png"></kbd>
+
+
+Add a comment that summarizes your work (ex: Week 1 assignment) and click on the `COMMIT` button.
+
+<kbd><img src="images/commit.png"></kbd>
+
+
+You should now see an orange light next to the icon that looks like a cloud with an up arrow. Click on it to push your changes to your repo.
+
+<kbd><img src="images/push.png"></kbd>
 
 ## Reading assignment:
 
