@@ -48,8 +48,32 @@ Your project proposal should include the following:
 
 ## Individual assignment: Data Exploration
 
-This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
+### Create a token
 
+In order to pull and push content to GitHub, you must first create a token, which will serve as your password.
+
+Go to your profile settings page.
+
+<kbd><img src="images/profile.png"></kbd>
+
+Select `Developer Settings` from the left panel, and then `Personal access tokens`.
+
+Click on the `Generate new token` button.
+
+<kbd><img src="images/token.png"></kbd>
+
+Set the expiration date to at least 90 days.
+
+Check the box next to `repo`.
+
+Scroll down and generate the token.
+
+<kbd><img src="images/token2.png"></kbd>
+
+
+### Clone your repo
+
+This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
 
 Go to your class repo page. The URL should look something like this: 
 `https://github.com/your_name/up206a`
