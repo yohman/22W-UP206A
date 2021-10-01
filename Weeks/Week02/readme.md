@@ -50,55 +50,15 @@ Your project proposal should include the following:
 
 ### Create a token
 
-In order to pull and push content to GitHub, you must first create a token, which will serve as your password.
+In order to pull and push content to GitHub, you must first create a token, which will serve as your password. Refer to this tutorial to create your token:
 
-Go to your profile settings page.
-
-<kbd><img src="images/profile.png"></kbd>
-
-Select `Developer Settings` from the left panel, and then `Personal access tokens`.
-
-Click on the `Generate new token` button.
-
-<kbd><img src="images/token.png"></kbd>
-
-Set the expiration date to at least 90 days.
-
-Check the box next to `repo`.
-
-Scroll down and generate the token.
-
-<kbd><img src="images/token2.png"></kbd>
-
+* [How to create a token](../../Git%20related/Create%20a%20token.md)
 
 ### Clone your repo
 
 This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
 
-Go to your class repo page. The URL should look something like this: 
-`https://github.com/your_name/up206a`
-
-Copy the clone URL:
-
-<kbd><img src="images/clone.png"></kbd>
-
-Launch JupyterHub
-
-Make sure you are at the root folder: 
-
-<kbd><img src="images/root.png"></kbd>
-
-In the file menu bar, go to `Git`, `Clone a Repository`:
-
-<kbd><img src="images/gitclone.png"></kbd>
-
-Enter (paste) the URL to your repo
-
-You should now see your repo in the root directory:
-
-<kbd><img src="images/up206a.png"></kbd>
-
-From here onwards, this will be your workspace for individual assignments, code experiments, and general data science work related to the class.
+* [How to clone your repo into JupyterHub](../../Git%20related/Clone%20repo%20to%20hub.md)
 
 ### Submission guidelines:
 
@@ -135,26 +95,13 @@ Save your notebook.
 
 ### Commit your changes to your GitHub class repo.
 
+Commit your changes to your GitHub repo by following these instructions:
 
-Make sure you are inside your `up206a` folder, and then click on the Git tab on the left side of your JupyterLab panel.
-
-Under the `Untracked` section, you should see all the files that you have modified. Click on the `+` button next to each file, and make sure that it moves to the `Staged` section.
-
-<kbd><img src="images/track.png"></kbd>
-
-
-Add a comment that summarizes your work (ex: Week 1 assignment) and click on the `COMMIT` button.
-
-<kbd><img src="images/commit.png"></kbd>
-
-
-You should now see an orange light next to the icon that looks like a cloud with an up arrow. Click on it to push your changes to your repo.
-
-<kbd><img src="images/push.png"></kbd>
+* [How to commit and push to your repo](../../Git%20related/Commit%20and%20push.md)
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section here.
+The last step is to submit your assignment to the class repo discussion section [here](https://github.com/yohman/21F-UP206A/discussions/8).
 
 ## Reading assignment:
 
