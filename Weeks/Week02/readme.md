@@ -20,9 +20,9 @@ Topics:
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
 *   [Intro to the geopandas library using Metro data](W202-PythonandMetro.ipynb)
 
-## Assignments (due 23:59 Sunday, the day before class)
+# Assignments (due 23:59 Sunday, the day before class)
 
-### Group Assignment #1: Project Proposal
+## Group Assignment #1: Project Proposal
 The course will largely be guided by your final project, which will be conducted in pairs. Consider that your final project will be a representation of what you learn in this course, and how you apply it on a project level. Consider also that your final project can serve as a representation of your data science and mapping skills, which may become a valuable asset for your career moving forward.
 
 Meet with your partner, discuss and identify a research question (or two or three...), begin to identify and collect data, articulate how you intend to use and analyze it, and begin to speculate how the data can begin to answer your research inquiry. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
@@ -46,10 +46,34 @@ Your project proposal should include the following:
 *   A scope that explains the intended analysis and resulting visualizations for your project
 *   A concluding paragraph of what insights you expect to gain from your research
 
-### Individual assignment: Data Exploration
-*   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. If you do not have a dataset, you can download one from the [Los Angeles Times' "Mapping L.A. Boundaries"](http://boundaries.latimes.com/sets/) page.
-*   Launch JupyterHub and load the dataset to your JupyterHub space
-*   Create a new python notebook (**do not** work on a copy of the lab notebook)
+## Individual assignment: Data Exploration
+
+This is your first code assignment submission. Before you begin, create a clone of your repo in JupyterHub.
+
+1. Go to your class repo page. The URL should look something like this: 
+`https://github.com/your_name/up206a`
+1. Copy the clone URL:
+<img src="images/clone.png">
+1. Launch JupyterHub
+1. Make sure you are at the root folder: 
+<img src="images/root.png">
+1. In the file menu bar, go to `Git`, `Clone a Repository`:
+<img src="images/gitclone.png">
+1. Enter (paste) the URL to your repo
+1. You should now see your repo in the root directory:
+<img src="images/up206a.png">
+
+From here onwards, this will be your workspace for individual assignments, code experiments, and general data science work related to the class.
+
+### Submission guidelines:
+
+*   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. 
+*   Launch JupyterHub, go to your `up206a` repo folder, and create a `week01` folder
+*   Load the dataset to the `up206a/week01` folder
+*   Create a new python notebook (**do not** work on a copy of the lab notebook):
+<img src="images/notebook.png"> 
+*   Right click on the `Untitled.ipynb` tab and rename the notebook to `week 1 assignment.ipynb`
+<img src="images/rename.png">
 *   Add an introductory markdown cell with a title (header) and paragraph that describes what you are doing
 *   Import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
     * `.shape`
@@ -60,9 +84,23 @@ Your project proposal should include the following:
     * run a query on the data that filters it in some way
 *   For each code cell, add a markdown cell that explains what you are doing
 *   Add markdown cells that describe the output of each operation
-*   Add your first data exploration Jupyter Notebook to your GitHub repository
+*   Save your notebook
 
-### Reading assignment:
+Commit your changes to your GitHub class repo
+* Make sure you are inside your `up206a` folder, and then click on the Git tab on the left side of your JupyterLab panel
+* Under the `Untracked` section, you should see all the files that you have modified. Click on the `+` button next to each file, and make sure that it moves to the `Staged` section
+
+<img src="images/track.png">
+
+* Add a comment that summarizes your work (ex: Week 1 assignment) and click on the `COMMIT` button
+
+<img src="images/commit.png">
+
+* You should now see an orange light next to the icon that looks like a cloud with an up arrow. Click on it to push your changes to your repo
+
+<img src="images/push.png">
+
+## Reading assignment:
 
 ![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
 
