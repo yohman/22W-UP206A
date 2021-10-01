@@ -78,7 +78,6 @@ From here onwards, this will be your workspace for individual assignments, code 
 
 ### Submission guidelines:
 
-
 Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. 
 
 Launch JupyterHub, go to your `up206a` repo folder, and create a `week01` folder.
@@ -87,11 +86,11 @@ Load the dataset to the `up206a/week01` folder.
 
 Create a new python notebook (**do not** work on a copy of the lab notebook):
 
-<img src="images/notebook.png"> 
+<kbd><img src="images/notebook.png"></kbd>
 
 Right click on the `Untitled.ipynb` tab and rename the notebook to `week 1 assignment.ipynb`
 
-<img src="images/rename.png">
+<kbd><img src="images/rename.png"></kbd>
 
 Add an introductory markdown cell with a title (header) and paragraph that describes what you are doing.
 
@@ -128,6 +127,10 @@ Add a comment that summarizes your work (ex: Week 1 assignment) and click on the
 You should now see an orange light next to the icon that looks like a cloud with an up arrow. Click on it to push your changes to your repo.
 
 <kbd><img src="images/push.png"></kbd>
+
+### Submit your assignment 
+
+The last step is to submit your assignment to the class repo discussion section here.
 
 ## Reading assignment:
 
