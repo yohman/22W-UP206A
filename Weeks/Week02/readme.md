@@ -8,9 +8,9 @@ October 4, 2021
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - we're here for you!
-*   Lab session
-*   Break
 *   Group creation
+*   Break
+*   Lab session
 *   A discussion on a selection from last week's readings
 
 ## Hands on
