@@ -111,7 +111,8 @@ The last step is to submit your assignment to the class repo discussion section 
 
 Next week we begin our first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
 
-Read her paper on gentrification, and prepare to ask her some questions next week.
+Read the following articles that she has been affiliated with, and come prepared to ask her questions next week.
 
+*   [UCLA research pinpoints where 2020 census undercounts were most likely in L.A. County](https://newsroom.ucla.edu/releases/2020-census-undercounts-los-angeles-county)
 *   ["Triangulating Neighborhood Knowledge to Understand Neighborhood Change: Methods to Study Gentrification" by Anastasia Loukaitou-Sideris, Silvia Gonzales, and Paul Ong](../../readings/sideris_gonzales_ong.pdf)
 
