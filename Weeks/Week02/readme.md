@@ -108,7 +108,9 @@ The last step is to submit your assignment to the class repo discussion section 
 
 ![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
 
-Next week we begin our first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), a former director of the [Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/), and the department's most recent PhD graduate. Read her paper on gentrification, and prepare to ask her some questions next week.
+Next week we begin our first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
+
+Read her paper on gentrification, and prepare to ask her some questions next week.
 
 *   ["Triangulating Neighborhood Knowledge to Understand Neighborhood Change: Methods to Study Gentrification" by Anastasia Loukaitou-Sideris, Silvia Gonzales, and Paul Ong](../../readings/sideris_gonzales_ong.pdf)
 
