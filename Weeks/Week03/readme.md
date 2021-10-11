@@ -6,16 +6,22 @@
 
 *   This class will be recorded (remind me if I forget!)
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
-*   Welcome to week 3!
-    * Concerns?
-    * Updated office hours TBD
-*   Conversation Series #1: Silvia Gonzales
-*   Lab: Census data exploration in python using pandas
 
-## Silvia Gonzales
+
+Conversation Series #1: Silvia Gonzales
+
 ![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
 
 Welcome to the first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
+
+*   --Break--
+
+*   Week 2 review
+    * Concerns?
+    * Week 2 lab submission issues
+    * [Week 2 MVP's](https://docs.google.com/presentation/d/1-ZGY--gfWP9xJrr7EbqMZtee97WQMt4sZ7WY7xtNFxQ/edit?usp=sharing)
+*   Lab: Census data exploration in python using pandas
+
 
 ## Assignments
 
@@ -40,12 +46,12 @@ For this group assignment, each group member will create and submit a separate J
 1.   Upload each Jupyter Notebook along with the associated census data file to your group repo
 2.   Submit your assignment by posting a link to your notebook [here](https://github.com/yohman/21F-UP206A/discussions/9).
 
-### Reading Assignment
+### Thinking Cap Assignment
 
 ![Geoff](https://i1.wp.com/geoffboeing.com/wp-content/uploads/2014/08/geoff-boeing-headshot-1.jpg?resize=150%2C150&ssl=1)
 [Geoff Boeing](https://geoffboeing.com/about/)
 
-Read or watch one of the following pieces. Then, write a short reaction paragraph as a markdown file in your GitHub repo titled `Week3_reading_assignment.md`. Be prepared to discuss and present your reaction during our next session. 
+Read or watch one of the following pieces. Then, write a short reaction paragraph directly as a discussion post [here](https://github.com/yohman/21F-UP206A/discussions/10). Be prepared to discuss and present your reaction during our next session. 
 
 *  [OSMnx: New methods for acquiring, constructing, analyzing, and
 visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
