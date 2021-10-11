@@ -15,7 +15,7 @@
 ## Silvia Gonzales
 ![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
 
-Welcome to the episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
+Welcome to the first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
 
 ## Assignments
 
