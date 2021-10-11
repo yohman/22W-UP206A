@@ -8,9 +8,13 @@
 *   Welcome to week 3!
     * Concerns?
     * Updated office hours TBD
+*   Conversation Series #1: Silvia Gonzales
 *   Lab: Census data exploration in python using pandas
-*   Code review (Chris)
-*   Thinking cap recap
+
+## Silvia Gonzales
+![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
+
+Welcome to the episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
 
 ## Assignments
 
@@ -33,6 +37,7 @@ For this group assignment, each group member will create and submit a separate J
 1.   Make sure to document each procedure with markdown cells with relevant headers
 1.   Run the cells in the notebook, and make sure the notebook "reads" from top to bottom, telling a story
 1.   Upload each Jupyter Notebook along with the associated census data file to your group repo
+2.   Submit your assignment by posting a link to your notebook [here](https://github.com/yohman/21F-UP206A/discussions/9).
 
 ### Reading Assignment
 
