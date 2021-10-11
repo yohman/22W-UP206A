@@ -6,12 +6,17 @@
 
 *   This class will be recorded (remind me if I forget!)
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
-*   Conversation Series #1: Silvia Gonzales
-   ![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
 
-   Welcome to the first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
 
-*   Week 3!
+Conversation Series #1: Silvia Gonzales
+
+![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
+
+Welcome to the first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), Director of Climate, Environmental Justice and Health Research for the [UCLA Latino Policy and Politics Initiative](https://latino.ucla.edu/).
+
+*   --Break--
+
+*   Week 2 review
     * Concerns?
     * Week 2 lab submission issues
     * [Week 2 MVP's](https://docs.google.com/presentation/d/1-ZGY--gfWP9xJrr7EbqMZtee97WQMt4sZ7WY7xtNFxQ/edit?usp=sharing)
