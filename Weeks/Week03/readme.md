@@ -51,7 +51,7 @@ For this group assignment, each group member will create and submit a separate J
 ![Geoff](https://i1.wp.com/geoffboeing.com/wp-content/uploads/2014/08/geoff-boeing-headshot-1.jpg?resize=150%2C150&ssl=1)
 [Geoff Boeing](https://geoffboeing.com/about/)
 
-Read or watch one of the following pieces. Then, write a short reaction paragraph [here](https://github.com/yohman/21F-UP206A/discussions/10). Be prepared to discuss and present your reaction during our next session. 
+Read or watch one of the following pieces. Then, write a short reaction paragraph directly as a discussion post [here](https://github.com/yohman/21F-UP206A/discussions/10). Be prepared to discuss and present your reaction during our next session. 
 
 *  [OSMnx: New methods for acquiring, constructing, analyzing, and
 visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
