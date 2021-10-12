@@ -5,7 +5,7 @@ These recordings are password protected and only available to students who are c
 - Week 2 [Python and metro](https://ucla.zoom.us/rec/share/LbaiuSgesUWSiMhIdPZ80teu01wIFn8E5ZzlQgZMmA_gvbH81OiFXkwiKL1o0SvQ.pUgdvXdjI2N0iqjh?startTime=1633381570000)
 - Week 3 
   - [Silvia Gonzales-Census Data Research Talk](https://ucla.zoom.us/rec/share/AGMJcUHP2zyNoF7UqZLRC_74ZUBI26rhiMamtMYAKbj0Z0rUGjv-8JJWnOkicMjP.07gvrW1MhsA4a_um?startTime=1633986231000)
-  - [Python and census data](https://ucla.zoom.us/rec/share/LIszdLYCcjODjopEyzGSHbLFQq3-zmtXF5A1ze_itktUjeNtHxZSiZ5eBJ4gvn-H.ggHUU2OQNighOBaM?startTime=1633989633000)
+  - [Python and census data lab](https://ucla.zoom.us/rec/share/LIszdLYCcjODjopEyzGSHbLFQq3-zmtXF5A1ze_itktUjeNtHxZSiZ5eBJ4gvn-H.ggHUU2OQNighOBaM?startTime=1633989633000)
 - Week 4 [Open street map]
 - Week 5 [Open data]
 - Week 7 [Hackathon, bus scraping, and getting to know Chris]
