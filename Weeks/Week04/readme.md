@@ -11,7 +11,7 @@
 - Break
 - Code review session
 - Thinking cap recap
-- Group timke
+- Group time
 
 ## Assignments
 
