@@ -2,14 +2,16 @@
 # Week 4: Open Street Maps
 
 ## Agenda 
-- This session will be recorded
-- Log in to JupyterHub first with the [gitpuller]
+*   This class will be recorded (remind me if I forget!)
+*   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
+
 - As always... any concerns?
 - Hands on lab/lecture
     - Creating isochrone maps with Open Street Map data
 - Break
 - Code review session
 - Thinking cap recap
+- Group time
 
 ## Assignments
 
@@ -22,6 +24,12 @@ Include the following sections:
 * **Status update**: Report on the general mood of the team, and provide details as to what is working, and what is not.
 * **Data update**: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
 * **Concerns**: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
+
+Then...
+
+Find a 15 minute time slot to meet with me to go over your project proposal. I have allocated extended office hours this week!
+
+https://calendly.com/yohda/up206a?month=2021-10
 
 ### Individual Coding Assignment
 
