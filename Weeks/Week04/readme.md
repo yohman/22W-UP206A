@@ -42,7 +42,7 @@ The purpose of this week's coding assignment is for you to advance your coding i
 - Use this week to review: redo, add, replace, review, and/or improve upon past assignments to get a better understanding of the materials and coding structures used
 - Follow up on this week's lab: create isochrone maps for areas that advance your group research
 - Be pragramtic: combine elements from various labs to create unique outputs that specifically advance your research inquiry
-- Be innovative: experiment with new datasets/features not covered in class (if this requires a new module/library not covered in class, consult with Ben of me first)
+- Be innovative: experiment with new datasets/features not covered in class (if this requires a new module/library not covered in class, consult with me first)
 
 This assignment can be as long or as short as you desire. It is meant to review and advance your understanding of course material. To submit:
 
