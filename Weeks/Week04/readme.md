@@ -25,6 +25,12 @@ Include the following sections:
 * **Data update**: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
 * **Concerns**: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
 
+Then...
+
+Fine a 15 minute time slot to meet with me to go over your project proposal. I have allocated extended office hours this week!
+
+https://calendly.com/yohda/up206a?month=2021-10
+
 ### Individual Coding Assignment
 
 The purpose of this week's coding assignment is for you to advance your coding in a direction that makes sense to you, and to the advancement of your group research project. You are free to choose one of the following:
