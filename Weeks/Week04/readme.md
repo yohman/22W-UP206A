@@ -27,7 +27,7 @@ Include the following sections:
 
 Then...
 
-Fine a 15 minute time slot to meet with me to go over your project proposal. I have allocated extended office hours this week!
+Find a 15 minute time slot to meet with me to go over your project proposal. I have allocated extended office hours this week!
 
 https://calendly.com/yohda/up206a?month=2021-10
 
