@@ -1,5 +1,9 @@
 # Week 5: Open data and APIs
 
+## Week 5 All Stars
+
+<img src="images/week5allstars.png">
+
 ## Agenda
 *   This class will be recorded (remind me if I forget!)
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
