@@ -17,7 +17,7 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 ## Assignments
 - [Midterms](../../Midterm%20and%20Finals)
 - Presentations
-  -  8 minutes per group
+  -  7 minutes for "solo" projects, 8 minutes for two person groups
   -  Each group member must present a portion of the project, for roughly an equal time of the presentation
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
