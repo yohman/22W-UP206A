@@ -1,5 +1,7 @@
 # Week 5: Open data and APIs
 
+Zoom link: https://ucla.zoom.us/j/99858936038
+
 ## Week 5 All Stars
 
 <img src="images/week5allstars.png">
