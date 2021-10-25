@@ -4,7 +4,7 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 
 ## Week 5 All Stars
 
-<a href="https://docs.google.com/presentation/d/1h_wf4D5y_ivu7K1eDKdMfaRjMh7CpQ9r9tEvsMFr8ZI/edit?usp=sharing"><img src="images/week5allstars.png"></a>
+<a href="https://docs.google.com/presentation/d/1h_wf4D5y_ivu7K1eDKdMfaRjMh7CpQ9r9tEvsMFr8ZI/edit?usp=sharing" target="_blank"><img src="images/week5allstars.png"></a>
 
 ## Agenda
 *   This class will be recorded (remind me if I forget!)
