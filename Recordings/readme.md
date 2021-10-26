@@ -7,7 +7,7 @@ These recordings are password protected and only available to students who are c
   - [Silvia Gonzales-Census Data Research Talk](https://ucla.zoom.us/rec/share/AGMJcUHP2zyNoF7UqZLRC_74ZUBI26rhiMamtMYAKbj0Z0rUGjv-8JJWnOkicMjP.07gvrW1MhsA4a_um?startTime=1633986231000)
   - [Python and census data lab](https://ucla.zoom.us/rec/share/LIszdLYCcjODjopEyzGSHbLFQq3-zmtXF5A1ze_itktUjeNtHxZSiZ5eBJ4gvn-H.ggHUU2OQNighOBaM?startTime=1633989633000)
 - Week 4 [OSMnx and Isochrones](https://ucla.zoom.us/rec/share/1A1PCcNvluSH2xB3vvqe0CSoOWkC8ryhrH9I_ZD9dhYUqdwlVWOSK86w-Hg7Q4yj.RBd34iVEW0GXS_pr?startTime=1634592528000)
-- Week 5 [Open data]
+- Week 5 [Open data](https://ucla.zoom.us/rec/share/bmjZvoHXiTQx6o3NZMFuVO83dBm6TPwl0mqNm_gN-hJpjUJtwkb0OaWl3pgfEpjz.wwuGbnOl891nQWf_?startTime=1635195972000)
 - Week 7 [Hackathon, bus scraping, and getting to know Chris]
 - Week 8 [A Conversation with Adam and Spatial Autocorrelation Lab]
 - Week 9 [Hackathon, point pattern analysis]
