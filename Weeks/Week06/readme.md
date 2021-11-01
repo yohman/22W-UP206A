@@ -2,9 +2,6 @@
 
 ## Today's agenda:
 
-- This session will be recorded
-- Concerns/questions/comments, all welcome!
-
 ### Midterm Presentations
 
 Order to be determined during class:
