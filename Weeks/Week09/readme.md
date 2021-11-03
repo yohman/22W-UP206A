@@ -33,3 +33,7 @@ Complete your notebook with a markdown cell that succinctly explains the map's i
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
 Make sure your notebook runs from the top without any errors and that all the visuals can be seen inline (without me having to re-run your notebook). 
+
+## Reading (optional)
+
+Sentiment analysis in urban planning: https://www.ssoar.info/ssoar/handle/document/54390#
