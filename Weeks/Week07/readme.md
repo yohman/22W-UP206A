@@ -1,17 +1,23 @@
-# Week 7: Web scraping and command line python
+# Week 7: Intro to Spatial Stats
 
-## Agenda:
-- [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-UP206A&urlpath=tree%2F21W-UP206A%2F&branch=master)
-- Welcome to week 7. Concerns? Questions? Stories to share?
-- Hackathon time!
-- Web scraping
-- Command line python
-- Who is Chris?
+Zoom link: https://ucla.zoom.us/j/99858936038
 
-## Special Guest for Week 8: Adam Millard-Ball
-![Adam](https://cdn.theconversation.com/avatars/1123988/width238/file-20200709-46-1wmq6nl.jpg) 
+## Agenda
+*   This class will be recorded (remind me if I forget!)
+*   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
+- Concerns? Post-midterm Traumatic Syndrome?
+- Lab: Spatial Auto-correlation
+- Break
+- T.A. Talk #1: Who is Chris?
+- Group status updates
 
-[About Adam](https://luskin.ucla.edu/person/adam-millard-ball)
+## Special Guest for Week 8: Mariah Tso, the Navajo UCLA cartographer
+![Mariah](https://milliondollarhoods.pre.ss.ucla.edu/wp-content/uploads/sites/96/2019/10/Mtso_photo-845x684.jpg) 
+
+- [Zapotec in 90006, K’iche’ in 90057: New map highlights L.A.’s Indigenous communities (LA Times)](https://www.latimes.com/california/story/2021-07-07/la-me-indigenous-map-los-angeles)
+- [We are Here Indigenous Diaspora in Los Angeles](https://storymaps.arcgis.com/stories/618560a29f2a402faa2f5dd9ded0cc65) 
+CIELO, UCLA AISC, UCLA Promise Institute for Human Rights, UCLA Bunche Center
+
 
 ## Assignments
 
@@ -23,9 +29,6 @@
 
 ## Thinking Cap
 
-Make sure to read one (or more) of the following papers by Adam:
-- The PNAS street-network sprawl paper (https://www.pnas.org/content/117/4/1941) is the most elaborate and gets into OSM and street connectivity metrics
-- The parking paper (https://authors.elsevier.com/a/1bvYg,M0mRH3NY) is a nice example of dealing with GPS data
-- The street width paper ([link-requires password](https://ucla.box.com/s/t6rah5b7pvkjp9vrqxzyafi7n15unswr)) is still a draft, and is simpler in terms of the data science angles but might be more accessible.
+TBD
 
 Write a one paragraph reaction to the article, and come up with one or two questions for the author. Be prepared to ask your question next week.
