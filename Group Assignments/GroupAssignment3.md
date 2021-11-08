@@ -27,3 +27,10 @@ for neighborhood in neighborhoods:
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
 Make sure your notebook runs from the top without any errors and that all the visuals can be seen inline (without me having to re-run your notebook). 
+
+## If you have already done a function and a loop...
+
+For those of you who are ahead of the game, congratulations! But let's not get our foot off the pedal. You are welcome to:
+
+- Submit a notebook that does spatial autocorrelation: Find tendencies for spatial clustering in your data by conducting a spatial autocorrelation analysis. Your results must include a global Moran's I statistic, followed by a local spatial autocorrelation with a moran's plot that indicates a P-value and a scatterplot with HH, HL, LH, and LL values. Produce a final output in the form of a map that indicates the location of statistically significant spatial clusters.
+- Suggest a different notebook: this may be a cleaned up or new version of your function/loop, or an experimentation on something we have not covered in class. Convince me, I am open as long as it advances your project in a meaningful way.
