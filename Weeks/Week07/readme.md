@@ -16,11 +16,3 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 ### Group Assignment #3
 
 - [Instructions](../../Group%20Assignments/GroupAssignment3.md)
-
-### Individual Assignment
-
-## Thinking Cap
-
-TBD
-
-Write a one paragraph reaction to the article, and come up with one or two questions for the author. Be prepared to ask your question next week.
