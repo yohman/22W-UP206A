@@ -7,11 +7,13 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 *   This class will be recorded (remind me if I forget!)
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
 *   Announcements:
-  *  [UC GIS Week](https://uc-gis-ucop.hub.arcgis.com/pages/uc-gis-week-2021)
-  *  [LA County GIS Day (guess who is the keynote?)](https://gis-day-lacounty.hub.arcgis.com/)
-- Lab: Point Pattern Analysis
+    *  [UC GIS Week](https://uc-gis-ucop.hub.arcgis.com/pages/uc-gis-week-2021)
+    *  [LA County GIS Day (guess who is the keynote?)](https://gis-day-lacounty.hub.arcgis.com/)
+- Lab
+    - Point Pattern Analysis
 - Break
-- T.A. Talk #2: Who is Ryan?
+- T.A. Talk #2
+    - Who is Ryan?
 - Time permitting: Command line python
 
 ## Special Guest for Week 9: Mariah Tso, the Navajo UCLA cartographer
