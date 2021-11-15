@@ -8,7 +8,7 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
 - Lab: Point Pattern Analysis
 - Break
-- T.A. Talk #1: Who is Ryan?
+- T.A. Talk #2: Who is Ryan?
 - Time permitting: Hackathon
 
 ## Special Guest for Week 9: Mariah Tso, the Navajo UCLA cartographer
