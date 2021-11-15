@@ -9,6 +9,15 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 *   Announcements:
     *  [UC GIS Week](https://uc-gis-ucop.hub.arcgis.com/pages/uc-gis-week-2021)
     *  [LA County GIS Day (guess who is the keynote?)](https://gis-day-lacounty.hub.arcgis.com/)
+
+Week 7 MVP's
+<img src="images/loops.png">
+
+* [Sharon's zones](https://github.com/trongk/206a-groupproject/blob/main/Group%20Assignment%203/Single%20Family%20Zones.ipynb)
+* [Ellie's building uses](https://github.com/elliegert/Group-Project/blob/main/Group%20Assignments/Group_Assignment_3/building%20types_assignment%203.ipynb)
+* [Nolan's exploded loops](https://github.com/mnolangray/up206-nolan-group/blob/main/group_assignments/Midterm%20Code%20Cleaned%20and%20Expanded.ipynb)   
+* [The change in Jacob and Lucia](https://github.com/jjbasinger/up206a-jacob/blob/main/assignment%203%20functional%20notebook.ipynb)
+
 - Lab
     - Point Pattern Analysis
 - Break
