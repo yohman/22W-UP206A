@@ -1,10 +1,15 @@
 November 15
 # Week 8: 
 
-## Week 8 Agenda
-- [UP206A Git Puller]
-- Welcome to week 8. Concerns? Questions? Stories to share?
-- Lab: Spatial Autocorrelation
+Zoom link: https://ucla.zoom.us/j/99858936038
+
+## Agenda
+*   This class will be recorded (remind me if I forget!)
+*   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
+- Lab: Point Pattern Analysis
+- Break
+- T.A. Talk #1: Who is Ryan?
+- Time permitting: Hackathon
 
 ## Special Guest for Week 9: Mariah Tso, the Navajo UCLA cartographer
 ![Mariah](https://milliondollarhoods.pre.ss.ucla.edu/wp-content/uploads/sites/96/2019/10/Mtso_photo-845x684.jpg) 
