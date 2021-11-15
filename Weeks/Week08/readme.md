@@ -9,7 +9,7 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 - Lab: Point Pattern Analysis
 - Break
 - T.A. Talk #2: Who is Ryan?
-- Time permitting: Hackathon
+- Time permitting: Command line python
 
 ## Special Guest for Week 9: Mariah Tso, the Navajo UCLA cartographer
 ![Mariah](https://milliondollarhoods.pre.ss.ucla.edu/wp-content/uploads/sites/96/2019/10/Mtso_photo-845x684.jpg) 
