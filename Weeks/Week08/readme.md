@@ -24,7 +24,4 @@ https://quod.lib.umich.edu/p/passages/4761530.0003.008/--deconstructing-the-map?
 
 # Assignments
 
-Group Assignment #4
-
-- meet with your partner at least once
-- do a collaborative coding session
+[Group Assignment #4](https://github.com/yohman/21F-UP206A/blob/master/Group%20Assignments/GroupAssignment4.md)
