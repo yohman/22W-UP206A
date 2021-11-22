@@ -9,6 +9,7 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 *   A cameo appearance by?
 *   Break
 *   Week 8 All Star:
+    * <a href="https://github.com/jjbasinger/up206a-jacob/blob/main/building%20permits%20notebook.ipynb"><img src="images/jacob.png" width=600></a>  
     * Jacob!! His [notebook](https://github.com/jjbasinger/up206a-jacob/blob/main/building%20permits%20notebook.ipynb)  
 *   Lab: Web scraping real time bus locations
 *   Next week informal poll: Remote Sensing or Sentiment Analysis?
