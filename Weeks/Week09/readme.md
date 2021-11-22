@@ -18,10 +18,7 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 
 <img src="https://idre.ucla.edu/wp-content/uploads/2014/09/Albert-Kochaphum.jpg" width=200>
 
-[Albert Kochaphum](https://www.linkedin.com/in/albertkun/), UCLA's former GIS Coordinator, is now working for METRO LA as a Digital Communications Administrator. Albert is a strong advocate for social justice, open source technologies, and is an alumn from the UCLA Urban Planning Department. Oh, and he can pretty much code up anything he puts his mind into, even fun role playing games :). While at UCLA, he wrote the following guides:
-
-- [Story Maps Tutorial](https://ucladataguides.readthedocs.io/en/latest/presenting_data/storymaps.html)
-- [ESRI's Story Map Guide](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407)
+[Albert Kochaphum](https://www.linkedin.com/in/albertkun/), UCLA's former GIS Coordinator, is now working for METRO LA as a Digital Communications Administrator. Albert is a strong advocate for social justice, open source technologies, and is an alumn from the UCLA Urban Planning Department. Oh, and he can pretty much code up anything he puts his mind into, even fun role playing games :). 
 
 ## Assignments
 - Rest, relax, enjoy...
@@ -31,3 +28,9 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 
 ## Reading (optional)
 Sentiment analysis in urban planning: https://www.ssoar.info/ssoar/handle/document/54390#
+
+Some story map guides:
+
+- [Story Maps Tutorial](https://ucladataguides.readthedocs.io/en/latest/presenting_data/storymaps.html)
+- [ESRI's Story Map Guide](https://storymaps.arcgis.com/stories/429bc4eed5f145109e603c9711a33407)
+
