@@ -8,6 +8,8 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 *   Welcome Mariah Tso!
 *   A cameo appearance by?
 *   Break
+*   Week 8 All Star:
+    * Jacob!! His [notebook](https://github.com/jjbasinger/up206a-jacob/blob/main/building%20permits%20notebook.ipynb)  
 *   Lab: Web scraping real time bus locations
 *   Next week informal poll: Remote Sensing or Sentiment Analysis?
 
