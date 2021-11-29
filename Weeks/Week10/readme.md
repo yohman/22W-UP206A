@@ -27,7 +27,7 @@
 - The following bullet list must be submitted to the discussion section [here](https://github.com/yohman/21F-UP206A/discussions/16)
    - Title of your project
    - Authors
-   - A link to your story map and/or presentation materials
+   - A link to your story map and/or presentation materials (make sure to make it public)
    - Link(s) to your Jupyter Notebooks on github
 
 
