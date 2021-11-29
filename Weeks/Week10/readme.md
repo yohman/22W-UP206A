@@ -1,8 +1,11 @@
 # Week 10: Remote Sensing and Sentiment Analysis
 
-<img src="images/remote2.png">
-<img src="images/sentiment.png">
+<img src="images/remote2.png" width=600>
+<img src="images/sentiment.png" width=600>
 
+# Final week!
+
+- Check out my extra [office hours](https://calendly.com/yohda/up206a?back=1&month=2021-12)
 
 # Albert Kochaphum
 <img src="https://avatars.githubusercontent.com/u/8574425?v=4">
