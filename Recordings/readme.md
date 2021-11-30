@@ -10,5 +10,5 @@ These recordings are password protected and only available to students who are c
 - Week 5 [Open data](https://ucla.zoom.us/rec/share/bmjZvoHXiTQx6o3NZMFuVO83dBm6TPwl0mqNm_gN-hJpjUJtwkb0OaWl3pgfEpjz.wwuGbnOl891nQWf_?startTime=1635195972000)
 - Week 7 [Spatial Autocorrelation, and getting to know Chris (1:48)](https://ucla.zoom.us/rec/share/2D_eIr_eUoi6nVdbwjWPq7scK0qh6RjV_5zN247mfmwJx7E6vk-TNeq5DPfO4enf.Eq0m4sxd9O7uL8PO?startTime=1636409091000)
 - Week 8 [Point Pattern Analysis, and getting to know Ryan (1:19)](https://ucla.zoom.us/rec/share/pMPNg0LbiFYogQiYuQ-9e2m_bXT6xTrtZduftOh_sTRd1DCpocAEZ-KkPY_hF0A.Nz2X7ALhtN40m8dH?startTime=1637013831000)
-- Week 9 
-- Week 10
+- Week 9 [Critical Mapping with Mariah and Realtime Bus Tracking](https://ucla.zoom.us/rec/share/Q13yMWfLJLD18fZcz1W5a32mMl-dknOaLHv-2-5QrGn_7tfoFq1avfLwMan0Yo-q._D-AIJbeSxJoKtHg?startTime=1637618758000)
+- Week 10 [Albert Kochaphum, Remote Sensing (1:00) and Sentiment Analysis (2:06)](https://ucla.zoom.us/rec/share/3lGRAlFQHL_HYSjcSC7JJ3bDx94ZyPfreXEZHxNvl5DNs132oTW7flXMyXtN2PkC.-N8PEcdZk7EUUo_0?startTime=1638223880000)
