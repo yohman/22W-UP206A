@@ -116,22 +116,22 @@ B and below | Submission is incomplete or produces errors
 
 Week | Date | Topic
 --- | --- | ---
-Week 1 | September 27, 2021 |[Introduction to spatial data science](Weeks/Week01)
-Week 2 | October 4, 2021 | [Data in Urban Studies: The challenge in data acquisition](Weeks/Week02)
+Week 1 | January 3, 2022 |[Introduction to spatial data science](Weeks/Week01)
+Week 2 | January 10, 2022 | [Data in Urban Studies: The challenge in data acquisition](Weeks/Week02)
  -- | -- | [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
-Week 3 | October 11, 2021 | [Understanding communities: Census data profiles](Weeks/Week03)
+Week 3 | January 17, 2022 (Holiday/Make up date TBD)| [Understanding communities: Census data profiles](Weeks/Week03)
  -- | -- | [Group assignment #2: Census Data Exploration](Group%20Assignments/GroupAssignment2.md)
-Week 4 | October 18, 2021 | [Open Street Maps](Weeks/Week04)
-Week 5 | October 25, 2021 | [Open data and APIs](Weeks/Week05)
-Week 6 | November 1, 2021| [Mid-terms](Weeks/Week06)
+Week 4 | January 24, 2022 | [Open Street Maps](Weeks/Week04)
+Week 5 | January 31, 2022 | [Open data and APIs](Weeks/Week05)
+Week 6 | February 7, 2022| [Mid-terms](Weeks/Week06)
  -- | -- | [Midterms](Midterm%20and%20Finals)
-Week 7 | November 8, 2021 | [Geocoding, multiple overlays, and functions](Weeks/Week07)
+Week 7 | February 14, 2022 | [Geocoding, multiple overlays, and functions](Weeks/Week07)
  -- | -- | [Group assignment #3: Data Visualization](Group%20Assignments/GroupAssignment3.md)
-Week 8 | November 15, 2021 | [Spatial statistics](Weeks/Week08)
-Week 9 | November 22, 2021 | [Point pattern analysis](Weeks/Week09)
+Week 8 | February 21, 2022 (Holiday/Make up date TBD) | [Spatial statistics](Weeks/Week08)
+Week 9 | February 28, 2022 | [Point pattern analysis](Weeks/Week09)
  -- | -- | [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
-Week 10 | November 29, 2021 | [Remote Sensing and Sentiment Analysis](Weeks/Week10)
-Finals Week | December 6, 2021 | [Finals](Midterm%20and%20Finals)
+Week 10 | March 7, 2022 | [Remote Sensing and Sentiment Analysis](Weeks/Week10)
+Finals Week | March 14, 2022 | [Finals](Midterm%20and%20Finals)
 
 ## How to ask a technical question
 
