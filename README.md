@@ -1,6 +1,6 @@
 # UP206A: Introduction to GIS and Spatial Data Science
 
-Fall 2021
+Winter 2022
 
 Mondays 2pm - 4:50pm
 Public Affairs Building Room 2355
