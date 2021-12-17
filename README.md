@@ -53,6 +53,22 @@ Specifically, students will learn to:
 - Apply data science programming techniques to produce relevant visualizations that inform urban policy
 - Learn to visualize data spatially to communicate the importance of place-based informatics
 - Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
+l
+## Classroom set up
+
+The classroom has changed dramatically in recent days. In order to maximize learning, the following guidelines must be adhered to as much as possible.
+
+### Hybrid model
+
+This course will be offered in a hybrid model, meaning that the course will be conducted in-person with remote attendance as an option. Students must make every possible attempt to attend the course in-person. However, those who desire to attend remotely must provide the instructor with a reason that this is necessary, in writing, prior to the session.
+
+### Zoom and slack
+
+Whether you are attending in-person or remotely, the following applications must be launched at the start of every class session:
+
+- Zoom: Why would in-person attendees need to be on zoom? Much of the class instruction revolves around "hands-on" lab sessions. In order for instructors to be able to troubleshoot, or to demonstrate solutions to problems, it is constructive for students to share their screens with the class.
+- Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. 
+
 
 ## Inspirations
 
