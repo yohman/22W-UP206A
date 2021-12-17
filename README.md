@@ -66,7 +66,7 @@ This course will be offered in a hybrid model, meaning that the course will be c
 
 Whether you are attending in-person or remotely, the following applications must be launched at the start of every class session:
 
-- Zoom: Why would in-person attendees need to be on zoom? Much of the class instruction revolves around "hands-on" lab sessions. In order for instructors to be able to troubleshoot, or to demonstrate solutions to problems, it is constructive for students to share their screens with the class.
+- Zoom: Why would in-person attendees need to be on zoom? Much of the class instruction revolves around "hands-on" lab sessions. In order for instructors to be able to troubleshoot, or to demonstrate solutions to problems, it is constructive for students to share their screens with the class. In addition, in-class presentations (midterms, finals) will use a shared zoom screen to project content to the class.
 - Slack: Sharing resources, code snippets, and general commentary on class material is better situated in Slack, as unlike the zoom chat, the records are archived and made available after class. 
 
 
