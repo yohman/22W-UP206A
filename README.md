@@ -109,7 +109,6 @@ All assignments, unless otherwise specified, must be posted on your individual G
 All assignments are graded on the following criteria:
 
 - **Timeliness**: Unless otherwise specified, all assignments are due at midnight of the day before the next class. For most assignments, you will be asked to submit them as posts in the discussion section of the class repo. The timestamp of your post will be used to determine whether they were submitted on time. 
-- **Late assignments**: Late assignments will be marked down one grade for each day it is late. For example, if your assigment warrants an "A" but is a day late, you will receive an "A-." As long as you submit your assignment before 10th week, you will get at least a "C."
 - **Cleanliness**: Nobody wants to go through unreadable code! Make sure to document your work accordingly, providing markdown cells and comments throughout.
 - **Does it work?**: Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel, and running all cells.
 - **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
@@ -120,6 +119,10 @@ A/A+ | Exceptional/creative/innovative work, demonstrating grasp of material, ap
 A- | Good grasp of material and solid application to your own research inquiry
 B+ | Average understanding of material, largely duplicating course material to fit with your own research inquiry
 B and below | Submission is incomplete or produces errors
+
+## Late assignments
+
+Late assignments will be marked down one grade for each day it is late. For example, if your assigment warrants an "A" but is a day late, you will receive an "A-." As long as you submit your assignment before 10th week, you will get at least a "C."
 
 ## Weekly Schedule
 
