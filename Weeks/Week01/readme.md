@@ -9,6 +9,7 @@ January 3, 2022
 
 * In person! WELCOME BACK! Or not... sadly, remote for the time being
 * Mark your [attendance](https://docs.google.com/spreadsheets/d/1MjlMVqbYFQNGe8OVQk37D2tsF-hl5Hd4c7JFNUMSXLw/edit#gid=0)
+* Fill out the [pre-class](https://forms.gle/z7uXnoDs8sBH2oSi9) poll if you haven't already
 * Logistics
 * Syllabus
 * Your TA's
