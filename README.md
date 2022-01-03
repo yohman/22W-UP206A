@@ -56,7 +56,7 @@ Specifically, students will learn to:
 - Apply data science programming techniques to produce relevant visualizations that inform urban policy
 - Learn to visualize data spatially to communicate the importance of place-based informatics
 - Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
-l
+
 ## Classroom set up
 
 The classroom has changed dramatically in recent days. In order to maximize learning, the following guidelines must be adhered to as much as possible.
