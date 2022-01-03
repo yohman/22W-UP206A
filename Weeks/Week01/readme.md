@@ -8,7 +8,7 @@ January 3, 2022
 *Note that this course will be recorded
 
 * In person! WELCOME BACK! Or not... sadly, remote for the time being
-* Mark your attendance
+* Mark your [attendance](https://docs.google.com/spreadsheets/d/1MjlMVqbYFQNGe8OVQk37D2tsF-hl5Hd4c7JFNUMSXLw/edit#gid=0)
 * Logistics
 * Syllabus
 * Your TA's
