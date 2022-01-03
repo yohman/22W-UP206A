@@ -16,10 +16,10 @@ January 3, 2022
    * technology/equipment needed for the class
    * zoom setup
    * slack
-   * the ultimate T.A.'s guide to success
+   * [the ultimate T.A.'s guide to success](https://docs.google.com/document/d/14fz3iSSb76PDiyqY8ZGDpao3umKMgvvR5NtvQwOsJao/edit)
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
-
+* Time permitting: introduction breakout rooms
 
 ## Hands on
 
