@@ -36,7 +36,7 @@ There are three deliverables this week. Each are due on Sunday by midnight. Each
 
 *   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](../../Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
-*  Submit your assignment [here](https://github.com/yohman/22W-UP206A/discussions/3)
+*  Submit your assignment [here](https://github.com/yohman/22W-UP206A/discussions/6)
 
 ### #2. Submit two or more datasets
 Search for two or more potential data sources that you may use for your research. If you are you using a web resource, make sure that they are "downloadable." Upload your datasets to your repo. First, create a folder titled "data," and upload your datasets in there.
