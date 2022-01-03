@@ -127,7 +127,7 @@ B and below | Submission is incomplete or produces errors
 
 ### Preparation
 
-*   Fill out the [pre-class survey](https://forms.gle/JZ3wFQMwN3SCbKBU8)
+*   Fill out the [pre-class survey](https://forms.gle/z7uXnoDs8sBH2oSi9)
 *   If you do not have a GitHub account, create one for the class
 	*   [https://github.com/](https://github.com/)
 *   Make sure you can log into the class JupyterHub
