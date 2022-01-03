@@ -19,7 +19,7 @@ January 3, 2022
    * the ultimate T.A.'s guide to success
 * Waitlist student considerations
   * Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
-
+* Time permitting: introduction breakout rooms
 
 ## Hands on
 
