@@ -49,7 +49,7 @@ Acceptable formats:
 - shapefile
 - API source
 
-Submit your dataset assigment [here](https://github.com/yohman/22W-UP206A/discussions/5), and make sure to provide the following information for each of your two datasets:
+Submit your dataset assigment [here](https://github.com/yohman/22W-UP206A/discussions/3), and make sure to provide the following information for each of your two datasets:
 
 1. Name of the data
 1. Description of the data and how you may use it for your project
@@ -57,8 +57,11 @@ Submit your dataset assigment [here](https://github.com/yohman/22W-UP206A/discus
 1. A URL link to the data on your repo
 
 ### #3. Thinking cap 
-This week's "thinking cap" assignment is for you to find an article, blog, journal, chapter, or book that includes a spatial component in regards to a topic related to urban justice. Make sure it is something that you would like to share with the class. Then, write a paragraph (yes, a paragraph, not two) that summarizes the article. Write a second paragraph where you reflect critically and creatively about the material in your own words. Why did this article speak to you in regards to your approach to data and research? How does it inform your learning goals for this course?
+This week's "thinking cap" assignment is for you to find an article, blog, journal, chapter, or book that includes a spatial component (a map, chart, graphic) in regards to a topic related to urban justice. Make sure it is something that you would like to share with the class. Then, write post with two parts:
+
+- A paragraph that summarizes the article and reflects critically and creatively about the material in your own words. Why did this article speak to you in regards to your approach to data and research? How does it inform your learning goals for this course? 
+- How do you think the graphical outputs (maps/charts) were created for the article? Where did the data come from, and how do you think the outputs were created? Does it *work*? Why or why not?
 
 The instructors will select a few of the readings for discussion in week 2.
 
-Submit your assignment [here](https://github.com/yohman/22W-UP206A/discussions/7).
+Submit your assignment [here](https://github.com/yohman/22W-UP206A/discussions/5).
