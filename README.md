@@ -4,6 +4,7 @@ Winter 2022
 
 Mondays 2pm - 4:50pm
 Public Affairs Building Room 2355
+Zoom (https://ucla.zoom.us/j/92530704333)
 
 ## Instructor: 
 
