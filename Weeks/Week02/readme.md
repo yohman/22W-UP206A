@@ -1,10 +1,10 @@
 # Week 2: Data in Urban Studies
 
-October 4, 2021
+January 10, 2022
 ## Agenda
 
 *   This class will be recorded (remind me if I forget!)
-*   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
+*   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F22W-UP206A&urlpath=lab%2Ftree%2F22W-UP206A%2F&branch=master) to avoid the bottleneck
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - we're here for you!
@@ -16,7 +16,7 @@ October 4, 2021
 ## Hands on
 First, grab the course material, and "pull" it into your JupyterHub space:
 
-* [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) (This link will automatically launch JupyterHub and clone the course material into your directory)
+* [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F22W-UP206A&urlpath=lab%2Ftree%2F22W-UP206A%2F&branch=master) (This link will automatically launch JupyterHub and clone the course material into your directory)
 
 Topics: 
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
@@ -103,7 +103,7 @@ Commit your changes to your GitHub repo by following these instructions:
 
 ### Submit your assignment 
 
-The last step is to submit your assignment to the class repo discussion section [here](https://github.com/yohman/21F-UP206A/discussions/8).
+The last step is to submit your assignment to the class repo discussion section [here](https://github.com/yohman/22W-UP206A/discussions/8).
 
 ## Reading assignment:
 
