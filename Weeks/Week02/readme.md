@@ -8,6 +8,11 @@ January 10, 2022
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - we're here for you!
+*   Logistics: Next week is a holiday!
+    * Plan is to do a condensed session on January 18, 2pm Tuesday afternoon (maybe 2 hours or so)
+    * Session will be recorded
+    * Attend in-person (virtually) if you can (you will get more out of it!) 
+*   Python review
 *   Group creation
 *   Break
 *   Lab session
