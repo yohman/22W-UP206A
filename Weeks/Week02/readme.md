@@ -8,6 +8,7 @@ January 10, 2022
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - we're here for you!
+    * Week 1 assignments may be submitted this week without penalty
 *   Logistics: Next week is a holiday!
     * Plan is to do a condensed session on January 18, 2pm Tuesday afternoon (maybe 2 hours or so)
     * Session will be recorded
