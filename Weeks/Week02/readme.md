@@ -17,7 +17,7 @@ January 10, 2022
 *   Group creation
 *   Break
 *   Lab session
-*   A discussion on a selection from last week's readings
+*   A discussion on a selection from last week's thinking cap
 
 ## Hands on
 First, grab the course material, and "pull" it into your JupyterHub space:
