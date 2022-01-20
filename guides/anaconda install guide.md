@@ -6,8 +6,16 @@
 1. Right click on the geo environment and launch terminal
 1. Enter the following command:
 
-`conda install --channel conda-forge geopandas`
+```
+conda install --channel conda-forge geopandas
+```
 
 Then,
 
-`pip install --upgrade --force-reinstall shapely`
+```
+pip install --upgrade --force-reinstall shapely
+```
+
+```
+conda install descartes
+```
