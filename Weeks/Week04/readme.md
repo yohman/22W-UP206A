@@ -27,13 +27,7 @@ Include the following sections:
 * **Data update**: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
 * **Concerns**: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
 
-Submit your updated proposal [here]().
-
-Then...
-
-Find a 15 minute time slot to meet with me to go over your project proposal. I have allocated extended office hours this week!
-
-https://calendly.com/yohda/up206a?month=2021-10
+Submit your updated proposal [here](https://github.com/yohman/22W-UP206A/discussions/13).
 
 ### Individual Coding Assignment
 
@@ -51,4 +45,4 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 - upload your notebook to your GitHub account
 
-Submit a link to your notebook [here]().
+Submit a link to your notebook [here](https://github.com/yohman/22W-UP206A/discussions/14).
