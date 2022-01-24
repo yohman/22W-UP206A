@@ -8,6 +8,7 @@
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F22W-UP206A&urlpath=lab%2Ftree%2F22W-UP206A%2F&branch=master) to avoid the bottleneck
 
 - As always... any concerns?
+    - A return to in-person starting next week...
 - T.A. report
 - Group report
 - Hands on lab/lecture
