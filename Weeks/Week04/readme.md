@@ -5,7 +5,7 @@
     
 ## Agenda 
 *   This class will be recorded (remind me if I forget!)
-*   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
+*   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F22W-UP206A&urlpath=lab%2Ftree%2F22W-UP206A%2F&branch=master) to avoid the bottleneck
 
 - As always... any concerns?
 - Hands on lab/lecture
@@ -27,7 +27,7 @@ Include the following sections:
 * **Data update**: Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
 * **Concerns**: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
 
-Submit your updated proposal [here](https://github.com/yohman/21F-UP206A/discussions/11).
+Submit your updated proposal [here]().
 
 Then...
 
@@ -51,4 +51,4 @@ This assignment can be as long or as short as you desire. It is meant to review 
 - provide ample markdown cells (preferrably before and after each code cell) that explains what you are going to do, and how you interpret the results)
 - upload your notebook to your GitHub account
 
-Submit a link to your notebook [here](https://github.com/yohman/21F-UP206A/discussions/12).
+Submit a link to your notebook [here]().
