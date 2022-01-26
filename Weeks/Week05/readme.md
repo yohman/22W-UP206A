@@ -20,3 +20,9 @@
   -  You can use any form of visual aids, including powerpoints, google slides, spreadsheets, and/or JupyterNotebooks
   -  Prepare and rehearse
   -  Most importantly, tell a story, and convey why this is an important issue that warrants our attention
+
+Tips for a good presentation:
+- Images are worth 1000 words (i.e. minimal use of bullet points)
+- Let your visuals narrate the story you tell, not text or bullet points
+- Talk to the audience, not your computer or the screen
+- Show your passion!
