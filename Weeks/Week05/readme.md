@@ -4,7 +4,8 @@
 
 <a href="https://docs.google.com/presentation/d/1h_wf4D5y_ivu7K1eDKdMfaRjMh7CpQ9r9tEvsMFr8ZI/edit?usp=sharing" target="_blank"><img src="images/week5allstars.png"></a>
 
-- [Join Chaitra's join!](https://github.com/nlmatteson/UP206A--Final-Project/blob/main/chaithra_week03/chaithra_week3.ipynb)
+- [Going back in time with Chaitra](https://github.com/nlmatteson/UP206A--Final-Project/blob/main/chaithra_week03/chaithra_week3.ipynb)
+- [Elena's Survey Wrangling in South Africa](https://github.com/esavignano23/up206a-group-project/blob/main/group%20assignments/elena_week%203%20assignment.ipynb)
 
 ## Agenda
 *   This class will be recorded (remind me if I forget!)
