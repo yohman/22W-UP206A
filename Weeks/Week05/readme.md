@@ -1,19 +1,17 @@
 # Week 5: Open data and APIs
 
-## Week 5 All Stars
-
-<a href="https://docs.google.com/presentation/d/1h_wf4D5y_ivu7K1eDKdMfaRjMh7CpQ9r9tEvsMFr8ZI/edit?usp=sharing" target="_blank"><img src="images/week5allstars.png"></a>
-
-- [Going back in time with Chaitra](https://github.com/nlmatteson/UP206A--Final-Project/blob/main/chaithra_week03/chaithra_week3.ipynb)
-- [Elena's Survey Wrangling in South Africa](https://github.com/esavignano23/up206a-group-project/blob/main/group%20assignments/elena_week%203%20assignment.ipynb)
-
 ## Agenda
 *   This class will be recorded (remind me if I forget!)
+*   Back to in-person! Remote for some. Logistics?
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F22W-UP206A&urlpath=lab%2Ftree%2F22W-UP206A%2F&branch=master) to avoid the bottleneck
 - Concerns?
-- Lab: Open data, API’s and why that matters
+- Lab: Part 1- code review with open data
 - Break
-- Group status updates
+- Lab: Part 2- Mapping arrests
+
+## Week 5 All Stars
+
+<a href="https://docs.google.com/presentation/d/1SninOOYrfGTxP-cJ3ZhnDMa9N4s3PAhamvt4qwriei0/edit#slide=id.p" target="_blank"><img src="images/week5.png"></a>
 
 ## Assignments
 - [Midterms](../../Midterm%20and%20Finals)
