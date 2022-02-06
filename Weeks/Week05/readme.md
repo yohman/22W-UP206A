@@ -27,3 +27,5 @@ Tips for a good presentation:
 - Let your visuals narrate the story you tell, not text or bullet points
 - Talk to the audience, not your computer or the screen
 - Show your passion!
+
+Submit your midterm materials [here](https://github.com/yohman/22W-UP206A/discussions/15)
