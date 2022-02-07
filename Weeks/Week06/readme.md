@@ -28,7 +28,7 @@ Rasheed Shabazz |  | The Mosque and the Block
 
 ### Individual assignment: Provide feedback to one (or more) midterm projects
 
-Go to the discussion section and navigate to the [midterm assignments](https://github.com/yohman/21F-UP206A/discussions/13). Provide feedback to **one other midterm projects**, making sure to include the following:
+Go to the discussion section and navigate to the [midterm assignments](https://github.com/yohman/21F-UP206A/discussions/15). Provide feedback to **one other midterm projects**, making sure to include the following:
 
 - What you liked about the project. Be specific!
 - What you recommend the project can work on/improve on for the final (data suggestions (with links), code advice (usage of functions, loops, etc), features, additional layers, design/interactive components, improved layout, narrative flow, etc)
