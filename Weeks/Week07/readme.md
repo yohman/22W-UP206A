@@ -30,3 +30,4 @@ https://quod.lib.umich.edu/p/passages/4761530.0003.008/--deconstructing-the-map?
 ### Group Assignment #3
 
 - [Instructions](../../Group%20Assignments/GroupAssignment3.md)
+- Submit [here](https://github.com/yohman/22W-UP206A/discussions/17)
