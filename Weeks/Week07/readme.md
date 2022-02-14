@@ -9,7 +9,7 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 - Eliza's midterm presentation
 - Lab: Spatial Auto-correlation
 
-## Special Guest for Week 9: Mariah Tso, the Navajo UCLA cartographer
+## Special Guest for Week 7: Mariah Tso, the Navajo UCLA cartographer
 <img src="https://milliondollarhoods.pre.ss.ucla.edu/wp-content/uploads/sites/96/2019/10/Mtso_photo-845x684.jpg" width=400>
 
 In the news:
