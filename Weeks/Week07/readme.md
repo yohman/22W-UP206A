@@ -1,6 +1,8 @@
 # Week 7: Intro to Spatial Stats
 
-Zoom link: https://ucla.zoom.us/j/99858936038
+Zoom link: https://ucla.zoom.us/j/92530704333
+
+Password: Mapping#1
 
 ## Agenda
 *   This class will be recorded (remind me if I forget!)
