@@ -7,3 +7,6 @@ These recordings are password protected and only available to students who are c
 - Week 4 [Open Street Map](https://ucla.zoom.us/rec/share/INTrB4VY0iVLPsXQdALVy4bjdBnTUj-OfAkHWflUrXHnTcCKPByMdhXcmK6guisY.N11Kv4voQEamRZhn?startTime=1643061795000 (Passcode: Mapping#1))
   - Lab 1: 49 minute mark
   - Lab 2: 1:45 minute mark
+- [Week 7](https://ucla.zoom.us/rec/share/ijooRKy7M04oOxF9RD6RGFRqnFhvPx_I2_uWTzauW1MYYAY-WXBUrlX-zlNZvloy.zRiuugu7mHqiNbeD?startTime=1644876808000 (Passcode: Mapping#1)) 
+  - Mariah
+  - Lab: Spatial Autocorrelation 1:17
