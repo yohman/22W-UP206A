@@ -30,7 +30,6 @@ Ben Winjum (bwinjum@ucla.edu)
 * Chris: Thursdays 10AM - 12PM and by appointment
 	* [Digital office hours link](https://ucla.zoom.us/j/94865539208?pwd=bGF5U0RtekFtR2lER2Q3bnVtN2xLUT09)
 * Ryan: Fridays 1-3pm and by appointment
-	* **Week 6 (Feb 11): Friday 12-2pm**
 	*  [Zoom link](https://ucla.zoom.us/j/98109554371)
 	* This will be group office hours where we will work together. If the format doesn't work I will switch to appointments in the future.
 
