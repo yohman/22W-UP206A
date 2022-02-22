@@ -17,7 +17,7 @@ Read the following article, and write a reaction post:
 
 Duarte, F., & deSouza, P. (2020). Data Science and Cities: A Critical Approach. Harvard Data Science Review. https://doi.org/10.1162/99608f92.b3fc5cc8
 
-Do you agree with the authors? Why or why not? What are your thoughts on the promise and perils on what we have learned in this class?
+Do you agree with the authors? Why or why not? What are your thoughts on the promise and perils on what we have learned in this class? Be prepared to share your thoughts in class next week.
 
 Submit your reaction [here](https://github.com/yohman/22W-UP206A/discussions/18)
 
