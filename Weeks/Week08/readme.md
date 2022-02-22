@@ -23,7 +23,7 @@ Submit your reaction [here](https://github.com/yohman/22W-UP206A/discussions/18)
 
 ## Group Assignment
 
-There are NO deliverables for the groups this week. But PROMISE that you will meet with your partner, and make progress on any of the materials gearing up for the final project. You may choose to:
+There are NO deliverables for the groups this week. But PROMISE that you will meet with your partner, and make progress on any of the materials gearing up for the final project. You will be asked to sumbit a draft of your final project materials by Week 10. You may choose to:
 
 - Clean up/update your project proposal
 - Clean up/update your Jupyter Notebooks and data visuaulization outputs
