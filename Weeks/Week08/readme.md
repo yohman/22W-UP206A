@@ -29,4 +29,6 @@ There are NO deliverables for the groups this week. But PROMISE that you will me
 - Clean up/update your Jupyter Notebooks and data visuaulization outputs
 - Create new notebooks with additional content that adds to your project
 - Plan for the final project presentation
+- Meet with your instructors to dicuss your project
+- Post on the slack channel!
 
