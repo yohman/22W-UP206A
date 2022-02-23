@@ -10,3 +10,7 @@ These recordings are password protected and only available to students who are c
 - [Week 7](https://ucla.zoom.us/rec/share/ijooRKy7M04oOxF9RD6RGFRqnFhvPx_I2_uWTzauW1MYYAY-WXBUrlX-zlNZvloy.zRiuugu7mHqiNbeD?startTime=1644876808000 (Passcode: Mapping#1)) 
   - Mariah
   - Lab: Spatial Autocorrelation 1:17
+- [Week 8](https://ucla.zoom.us/rec/share/MuqgHMZGbbyj6hBqc85oBRIWJzfINehBZb9gZSLPeFIP8-aC8KFdc-rYlPFW8Jtg.K6ffZTr9oy3bKex6?startTime=1645567666000 (Passcode: Mapping#1))
+  - Assignment explanation
+  - Mapathon cheat sheet overview (0:15)
+  - 
