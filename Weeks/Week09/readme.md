@@ -1,18 +1,20 @@
 # Week 9
 
-Zoom link: https://ucla.zoom.us/j/99858936038
+Zoom link: https://ucla.zoom.us/j/92530704333
 
 ## Agenda
+
 *   This class will be recorded (remind me if I forget!)
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
-*   Welcome Mariah Tso!
-*   A cameo appearance by?
+*   Your TA's are urban scientists too!
+    * Chris
+    * Ryan
 *   Break
-*   Week 8 All Star:
-    * <a href="https://github.com/jjbasinger/up206a-jacob/blob/main/building%20permits%20notebook.ipynb"><img src="images/jacob.png" width=600></a>  
-    * The [notebook](https://github.com/jjbasinger/up206a-jacob/blob/main/building%20permits%20notebook.ipynb)  
-*   Lab: Web scraping real time bus locations
-*   Next week informal poll: Remote Sensing or Sentiment Analysis?
+*   Thinking Cap Discussion
+    * Remote group with Chris
+    * In-person group with Ryan and Yoh
+*   Final presentation guidelines
+*   Story Map tutorial
 
 ## Next week's guest speaker: Albert Kochaphum
 
@@ -21,10 +23,9 @@ Zoom link: https://ucla.zoom.us/j/99858936038
 [Albert Kochaphum](https://www.linkedin.com/in/albertkun/), UCLA's former GIS Coordinator, is now working for METRO LA as a Digital Communications Administrator. Albert is a strong advocate for social justice, open source technologies, and is an alumn from the UCLA Urban Planning Department. Oh, and he can pretty much code up anything he puts his mind into, even fun role playing games :). 
 
 ## Assignments
-- Rest, relax, enjoy...
-- Eat turkey (or equivalent thanksgiving grub)
-- Code only if you want to...
-- Come back refreshed!
+
+Final project storymaps due next week
+- [submission guidelines](https://github.com/yohman/22W-UP206A/blob/master/Midterm%20and%20Finals/readme.md#final-project-30-of-your-final-grade)
 
 ## Reading (optional)
 Sentiment analysis in urban planning: https://www.ssoar.info/ssoar/handle/document/54390#
