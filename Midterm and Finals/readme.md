@@ -51,3 +51,7 @@ Submit links to the following items in [this discussion section](https://github.
 **Submit your jupyter notebooks (due finals week)**
 
 *  Make sure to clean your notebooks prior to submission. Notebooks that do not have explanatory markdown cells, or notebooks that produce errors will affect your grade.
+
+### Grading
+
+- [grading criteria](https://github.com/yohman/22W-UP206A#grading-criteria)
