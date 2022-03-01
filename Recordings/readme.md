@@ -13,4 +13,8 @@ These recordings are password protected and only available to students who are c
 - [Week 8](https://ucla.zoom.us/rec/share/MuqgHMZGbbyj6hBqc85oBRIWJzfINehBZb9gZSLPeFIP8-aC8KFdc-rYlPFW8Jtg.K6ffZTr9oy3bKex6?startTime=1645567666000 (Passcode: Mapping#1))
   - Assignment explanation
   - Mapathon cheat sheet overview (0:15)
-  - 
+- [Week 9](https://ucla.zoom.us/rec/share/whaj8kWEXeoHDYFR008r64z9VVeQIPRkOseGxayATolLELwB3nAp3T7GIlaz0KQr.GZYYLHNrmPbLCTfI?startTime=1646086172000 (Passcode: Mapping#1)
+  - Final project overview
+  - Story maps lab
+  - Chris's Story
+  - Ryan's Story
