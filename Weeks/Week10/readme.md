@@ -27,7 +27,7 @@
 
 Open Sublime, and enter the following code. Then, save the file as `index.html`, and open it on a web browser (double clicking the file usually works).
 
-```js
+```html
 <!DOCTYPE html>
 <html>
 <head>
