@@ -1,5 +1,7 @@
 # Week 10
 
+Zoom link: https://ucla.zoom.us/j/92530704333
+
 # Final week!
 
 # Albert Kochaphum
