@@ -2,8 +2,6 @@
 
 # Final week!
 
-- Check out my extra [office hours](https://calendly.com/yohda/up206a?back=1&month=2021-12)
-
 # Albert Kochaphum
 <img src="https://avatars.githubusercontent.com/u/8574425?v=4">
 
@@ -14,12 +12,17 @@
    * Crazy github master https://github.com/albertkun  
 
 ## Agenda
+
 *   This class will be recorded (remind me if I forget!)
+*   A conversation with Albert
+*   --break--
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
-- --break--
-- A history of web maps at UCLA
-- A javascript teaser
-  - download [sublime](https://www.sublimetext.com/)
+*   Review of final expectations
+*   
+*   The final phase: Publishing your work
+    *   [A history of web maps at UCLA](https://docs.google.com/presentation/d/1FMFzxBifgu_DxXQ-L0KhlHV8zpneN3a_N380L8k7_k8/edit?usp=sharing)
+*   A javascript teaser
+    - download [sublime](https://www.sublimetext.com/)
 
 # Final project guidelines review
 
