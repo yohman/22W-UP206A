@@ -77,13 +77,13 @@ Open Sublime, and enter the following code. Then, save the file as `index.html`,
 
 Add a marker with a popup. Code hint:
 
-```html
+```js
 var marker = L.marker([34.0744413,-118.4391512]).addTo(map).bindPopup('hello world!');
 ```
 
 Add a circle with a 100m radius:
 
-```html
+```js
 // add a circle
 var circle = L.circle([34.0744413,-118.4391512], {
 	color: 'red',
