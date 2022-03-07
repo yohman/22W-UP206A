@@ -18,6 +18,10 @@
 *   --break--
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
 *   [Final project guidelines](../../Midterm%20and%20Finals/readme.md)
+*   Useful labs that we won't cover in class
+    * Web scraping
+    * Remote sensing  
+    * Sentiment analysis
 *   The final phase: Publishing your work
     *   [A history of web maps at UCLA](https://docs.google.com/presentation/d/1FMFzxBifgu_DxXQ-L0KhlHV8zpneN3a_N380L8k7_k8/edit?usp=sharing)
 *   A javascript teaser
