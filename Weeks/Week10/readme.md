@@ -1,4 +1,4 @@
-# Week 10: Remote Sensing and Sentiment Analysis
+# Week 10
 
 # Final week!
 
