@@ -26,6 +26,7 @@
     *   [A history of web maps at UCLA](https://docs.google.com/presentation/d/1FMFzxBifgu_DxXQ-L0KhlHV8zpneN3a_N380L8k7_k8/edit?usp=sharing)
 *   A javascript teaser
     * download [sublime](https://www.sublimetext.com/)
+*   Course evaluations
 
 # A javascript teaser
 
