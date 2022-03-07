@@ -1,8 +1,5 @@
 # Week 10: Remote Sensing and Sentiment Analysis
 
-<img src="images/remote2.png" width=600>
-<img src="images/sentiment.png" width=600>
-
 # Final week!
 
 - Check out my extra [office hours](https://calendly.com/yohda/up206a?back=1&month=2021-12)
@@ -19,10 +16,10 @@
 ## Agenda
 *   This class will be recorded (remind me if I forget!)
 *   Log in to the class JupyterHub using the [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21F-UP206A&urlpath=lab%2Ftree%2F21F-UP206A%2F&branch=master) to avoid the bottleneck
-- Story maps guide
 - --break--
-- Lab 1: Remote Sensing
-- Lab 2: Sentiment Analysis (time permitting)
+- A history of web maps at UCLA
+- A javascript teaser
+  - download [sublime](https://www.sublimetext.com/)
 
 # Final project guidelines review
 
